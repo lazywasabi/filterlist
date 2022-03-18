@@ -72,6 +72,8 @@ www.nationtv.tv##.default-inarticle
 today.line.me##.floatingBanner-root
 trueid.net##.style__BannerBox-sc-1k92hio-0.grmqZW
 
+www.blockdit.com##.monetize-ad-wrapper
+
 ! =============== COOKIE NOTICE ===============
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
@@ -181,3 +183,5 @@ www.blognone.com###page-sharing
 thestandard.co##.meta-date + .row
 ! Browser notification
 www.tnnthailand.com###notification-modal
+! App download
+www.blockdit.com##.card-download-suggest

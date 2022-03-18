@@ -23,6 +23,7 @@ www.gamingdose.com##.gamin-floating-banner-right
 thestandard.co##div.mastheadSlide
 thestandard.co##div[data-visibility]
 ! Sticky bottom ads
+thestandard.co###fixedban
 www.siamsport.co.th###sticky_bottom_rail
 ! Popup ads
 shopee.co.th##shopee-banner-popup-stateful
@@ -131,11 +132,15 @@ www.mcot.net##.readmore-btn
 www.mcot.net##.readmore.more:style(max-height: unset !important;)
 tna.mcot.net##.readmore-box
 tna.mcot.net##.entry-content:style(max-height: unset !important;)
+thestandard.co##.readmore-content
+thestandard.co##article.single-content:style(height: auto !important;)
+thestandard.co##article.single-content:after
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)
 ! Social buttons
 www.blognone.com##.social-sharing
 www.blognone.com###page-sharing
+thestandard.co##.meta-date + .row
 ! Browser notification
 www.tnnthailand.com###notification-modal

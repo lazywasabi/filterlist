@@ -10,6 +10,14 @@ thairath.co.th##.e2xssn00.css-xflhx3
 thairath.co.th##.el3jrjp0.css-6fzuq9
 ! Sticky bottom ads
 thairath.co.th##.e160b0jq8.css-1dq0ayl
+! After article ads
+www.thairath.co.th##.css-1y1hk5u.evs3ejl52
+! Lotto page ads
+www.thairath.co.th##.css-17sckyq.e2xssn00
+www.thairath.co.th##.css-1x5h7ak.e2xssn00
+www.thairath.co.th##.css-n87yr3.e160b0jq8
+www.thairath.co.th##.css-1ekai0u.e160b0jq8
+www.thairath.co.th##.css-1c3n6ic.ecgl95t39
 ! Popup ads
 www.gamingdose.com##.gamin-pop-up
 www.gamingdose.com##.gamin-pop-up-desktop

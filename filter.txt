@@ -1,0 +1,141 @@
+! Title: LazyWasabi Filter List
+! Expires: 3 days
+! Homepage: https://github.com/lazywasabi/filterlist
+
+! =============== ADS ==================
+! Article page ads
+thairath.co.th##.e2xssn00.css-18f5y4r
+thairath.co.th##.e2xssn00.css-xflhx3
+! Home page ads
+thairath.co.th##.el3jrjp0.css-6fzuq9
+! Sticky bottom ads
+thairath.co.th##.e160b0jq8.css-1dq0ayl
+! Popup ads
+www.gamingdose.com##.gamin-pop-up
+www.gamingdose.com##.gamin-pop-up-desktop
+www.gamingdose.com##.advads-background
+! Sticky bottom ads
+www.gamingdose.com##.gamin-sticky-bottom
+! Floating banner
+www.gamingdose.com##.gamin-floating-banner-left
+www.gamingdose.com##.gamin-floating-banner-right
+! Top & sidebar ads
+thestandard.co##div.mastheadSlide
+thestandard.co##div[data-visibility]
+! Sticky bottom ads
+www.siamsport.co.th###sticky_bottom_rail
+! Popup ads
+shopee.co.th##shopee-banner-popup-stateful
+jd.co.th##.cp-curtain
+techsauce.co###popup-banner.modal
+techsauce.co##body.modal-open:style(overflow: auto !important;)
+techsauce.co##.modal-backdrop
+! Ads & fix blank space
+prachatai.com##.adsbypct
+prachatai.com##.support-pay
+prachatai.com###block-block-28
+prachatai.com##.mean-bar:style(top: 0;)
+prachatai.com###block-block-7:style(top: 0;)
+prachatai.com###zone-user-wrapper:style(padding-top: 70px !important;)
+! Top banner ads
+www.sanook.com##.BillboardPremium
+! Article page ads
+www.sanook.com##.adWrapMinHeight
+www.sanook.com##.BannerImg
+! Popup ads
+www.sanook.com##.EventOverlay.active
+www.sanook.com##.FloatingWidgetDesktop
+! Mobile popup ads
+www.sanook.com##.LandingCover
+www.sanook.com##.FloatingWidgetMobile
+! Fix scroll lock & blank space on mobile
+www.sanook.com##html.lock-scroll:style(overflow: auto !important;)
+www.sanook.com##html.lock-scroll body:style(overflow: auto !important;)
+www.sanook.com##.isMobile.lock-scroll .MainHeaderMobile:style(top: 0 !important;)
+! Blognone Jobs ads
+www.blognone.com###above_comments
+www.blognone.com###block-views-jobs-blognone-com-block
+! Sponsored post
+www.blognone.com##body.front .node.sticky.sponsored
+www.blognone.com##body.page-taxonomy .node.sticky.sponsored
+! Sidebar ads
+dict.longdo.com##.commercial-ads
+! Fix blank space
+www.dailynews.co.th##.elementor-section-height-min-height .elementor-container:style(min-height: 0 !important;)
+! Article page ads
+www.thansettakij.com,www.bangkokbiznews.com,www.komchadluek.net,www.nationtv.tv,www.springnews.co.th##.default-billboard
+www.thansettakij.com,www.bangkokbiznews.com,www.komchadluek.net##.default-sticky-1
+www.nationtv.tv##.default-sticky
+www.nationtv.tv##.default-inarticle
+! Floating banner
+today.line.me##.floatingBanner-root
+trueid.net##.style__BannerBox-sc-1k92hio-0.grmqZW
+
+! =============== COOKIE NOTICE ===============
+plus.thairath.co.th##.enmq55h2.css-wfe216
+news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
+www.khaosod.co.th,www.matichonweekly.com###pdpa-popup
+www.komchadluek.net###accept-cookie-footer
+www.siamsport.co.th##div#popup-ss.popup-box.cd-morph-dropdown
+workpointtoday.com###cookie.sticky
+techsauce.co##.cwc-cookie-banner-ui-sdk
+prachatai.com##.sliding-popup-bottom
+www.pptvhd36.com##.pptvbox--policy.active
+www.thansettakij.com,www.bangkokbiznews.com,www.nationtv.tv,www.springnews.co.th##.sticky-cookie
+www.bangkokbiznews.com,www.nationtv.tv,www.springnews.co.th##.ads-sticky-overflow
+www.thansettakij.com#@##acceptCookie
+www.komchadluek.net##div[class^="id__CustomtagCookie"]
+www.mcot.net##.accept-policy
+sanook.com###consent_bn.consent
+sanook.com##.isMobile .menuMobileWrap:style(top: 41px !important;)
+sanook.com##.isMobile .overlay:style(top: 41px !important;)
+www.wongnai.com##.jrXVKY.Container-sc-1it4kq4
+www.wongnai.com##.jjyVTp.Container-sc-17fa8e4
+www.wongnai.com##.euieDG.Container-sc-1it4kq4
+www.wongnai.com##.inuTsc.Container-sc-17fa8e4
+pantip.com##.pt-snackbar--open.pt-snackbar
+dek-d.com###cookiePolicyDialog
+www.phoenixnext.com##.cookie.fixed
+bnn.in.th##.the-pdpa-consent-bar
+www.advice.co.th##.foot-cookie
+www.se-ed.com###cookies
+www.tops.co.th##div[class^="CookiePolicy__Wrapper"]
+www.set.or.th###pdpa-policy
+www.scb.co.th##.consent_wrapper
+www.krungsri.com##.modal-backdrop.show
+www.krungsri.com##body.modal-open:style(overflow: auto !important;)
+www.ttbbank.com###cookies-consent
+www.gsb.or.th##.cc-container
+krungthai.com###cookie_consent_popup
+rewards.rabbit.co.th##.collect-cookies
+pay.line.me##.banner_area.banner_open
+www.truemoney.com##.tmn-cookie
+www.atime.live##.style__StyleModal-sc-1ecjkz-0
+longdo.com###pdpa-longdocom-div
+huawei.com##.huawei-convergent-cookie
+truecorp.co.th###floater-bnr-box
+www.pttor.com###policy_plugin
+www.robinhood.in.th##.cli-modal-backdrop
+www.robinhood.in.th###cookie-law-info-bar
+www.robinhood.in.th###cookie-law-info-again
+www.robinhood.in.th##body.cli-barmodal-open:style(overflow: auto !important;)
+www.bangkokinsurance.com###cookie_consent_popup
+www.viriyah.com##.cookie-consent-eu
+fwd.co.th##.jss14.jss18
+fwd.co.th##cookie-button
+www.southeastinsurance.co.th##.cookie.policy-footer-cookie
+
+! =============== ANNOYANCES ===============
+! Auto expand article
+www.mcot.net##.readmore-btn
+www.mcot.net##.readmore.more:style(max-height: unset !important;)
+tna.mcot.net##.readmore-box
+tna.mcot.net##.entry-content:style(max-height: unset !important;)
+! Login banner
+www.blockdit.com##.jsx-3692028524
+www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)
+! Social buttons
+www.blognone.com##.social-sharing
+www.blognone.com###page-sharing
+! Browser notification
+www.tnnthailand.com###notification-modal

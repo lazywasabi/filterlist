@@ -125,6 +125,39 @@ www.viriyah.com##.cookie-consent-eu
 fwd.co.th##.jss14.jss18
 fwd.co.th##cookie-button
 www.southeastinsurance.co.th##.cookie.policy-footer-cookie
+daradaily.com##.snackbar-container.snackbar-pos.bottom-center
+www.thansettakij.com###cookie
+www.officemate.co.th##div[class^="PolicyBar__Bar"]
+www.aeon.co.th###consent
+www.joox.com##.pdpa
+www.coolism.net##div[class^="AcceptCookie__AcceptCookieWrapper"]
+www.monomax.me##.fixed-bottom.form-cookie
+www.viu.com###pdpa_consent_box
+waymagazine.org,www.topnews.co.th##.dpdpa--popup
+www.tmrwbyuob.com##.com-information-bar
+www.kawebook.com###pdpaPopup
+fastwork.co##.cookie-consent-bar
+www.skooldio.com##.cwc-cookie-banner-ui-sdk
+1112.com##.cookies
+www.starbucks.co.th##.mpp-container-position-bottom-bar
+www.burgerking.co.th##.div-keep-cookie
+oishidelivery.com###cookieWarnBox
+store.boots.co.th##.cookie-consent-wrap
+www.bugaboo.tv##.cookies-area
+www.uniqlo.com##.fr-layer-item.toast
+www.bangkokair.com###cookies-personalize
+www.airasia.com##div[class^="Gdpr__GdprParentWrapper"]
+www.naiin.com##.tw-fixed.tw-bottom-0.tw-w-full[style="z-index: 2000;"]
+jaymartstore.com###consent-noti
+www.eventpop.me###accept-cookie-banner
+hoyoverse.com##.mihoyo-cookie-tips
+www.viriyah.co.th###myDiv2.myDiv
+www.mazda.co.th##div[class^="mxp-main-cookie-panel-container"]
+www.bitkub.com##.cookies__container
+www.priceza.com###pz-consent-container
+www.suzuki.co.th##.block-cookie
+map.nostramap.com##.acceptCookieBar
+www.singhacorporation.com###cookies
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

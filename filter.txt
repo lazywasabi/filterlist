@@ -101,6 +101,8 @@ www.checkraka.com###item-recommend
 www.checkraka.com##.content .contentbox .right-content
 forbesthailand.com##.out-cover-page
 forbesthailand.com##.cover-page
+store.boots.co.th###floating-ads___BV_modal_outer_
+store.boots.co.th##body.modal-open:style(overflow: unset !important;)
 
 ! =============== COOKIE NOTICE ===============
 plus.thairath.co.th##.enmq55h2.css-wfe216

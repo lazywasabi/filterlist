@@ -74,6 +74,7 @@ trueid.net##.style__BannerBox-sc-1k92hio-0.grmqZW
 
 www.blockdit.com##.monetize-ad-wrapper
 www.rsmall.com##div[class^="BannerPopup__BannerPopupWrapper"]
+www.tnnthailand.com##.ad-middle
 
 ! =============== COOKIE NOTICE ===============
 plus.thairath.co.th##.enmq55h2.css-wfe216

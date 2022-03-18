@@ -2,6 +2,10 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/lazywasabi/filterlist
 
+! =============== HOST ===============
+! Ads on www.checkraka.com
+||www.abgadvertising.com^
+
 ! =============== ADS ==================
 ! Article page ads
 thairath.co.th##.e2xssn00.css-18f5y4r
@@ -86,6 +90,15 @@ www.tnnthailand.com##.ad-middle
 www.pptvhd36.com##.pptv-container.ads-ppn
 thethaiger.com##.custom_banner
 www.joox.com##.VipTooltip
+www.checkraka.com###popup-ads + .modal.show
+www.checkraka.com##.modal-backdrop.show
+www.checkraka.com##body.modal-open:style(overflow: auto !important;)
+www.checkraka.com###banner-z
+www.checkraka.com###banner-A
+www.checkraka.com##.banner
+www.checkraka.com##.section#online
+www.checkraka.com###item-recommend
+www.checkraka.com##.content .contentbox .right-content
 
 ! =============== COOKIE NOTICE ===============
 plus.thairath.co.th##.enmq55h2.css-wfe216

@@ -85,6 +85,7 @@ www.rsmall.com##div[class^="BannerPopup__BannerPopupWrapper"]
 www.tnnthailand.com##.ad-middle
 www.pptvhd36.com##.pptv-container.ads-ppn
 thethaiger.com##.custom_banner
+www.joox.com##.VipTooltip
 
 ! =============== COOKIE NOTICE ===============
 plus.thairath.co.th##.enmq55h2.css-wfe216
@@ -202,3 +203,5 @@ wetv.vip##.firstToast
 wetv.vip##.abTest .banner
 wetv.vip##.abTest .bannerB
 thethaiger.com##.smartbanner
+www.joox.com##.stickyFooter.active
+www.joox.com##body:style(overflow: auto !important;)

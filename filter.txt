@@ -219,3 +219,4 @@ thethaiger.com##.smartbanner
 www.joox.com##.stickyFooter.active
 www.joox.com##body:style(overflow: auto !important;)
 www.viu.com###web_to_app_container
+www.homepro.co.th###app-popup-container

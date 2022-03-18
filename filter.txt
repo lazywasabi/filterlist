@@ -104,6 +104,7 @@ forbesthailand.com##.cover-page
 store.boots.co.th###floating-ads___BV_modal_outer_
 store.boots.co.th##body.modal-open:style(overflow: unset !important;)
 www.true-shopping.com###banner-modal___BV_modal_outer_
+thebeautrium.com##.bt-popup-backdrop
 
 ! =============== COOKIE NOTICE ===============
 plus.thairath.co.th##.enmq55h2.css-wfe216

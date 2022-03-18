@@ -130,11 +130,15 @@ www.southeastinsurance.co.th##.cookie.policy-footer-cookie
 ! Auto expand article
 www.mcot.net##.readmore-btn
 www.mcot.net##.readmore.more:style(max-height: unset !important;)
-tna.mcot.net##.readmore-box
-tna.mcot.net##.entry-content:style(max-height: unset !important;)
+tna.mcot.net,nineentertain.mcot.net##.readmore-box
+tna.mcot.net,nineentertain.mcot.net##.entry-content:style(max-height: unset !important;)
 thestandard.co##.readmore-content
 thestandard.co##article.single-content:style(height: auto !important;)
 thestandard.co##article.single-content:after
+www.punpro.com##div[class^="BlockContent__BlockReadMore"]
+www.punpro.com##div[class^="BlockContent__RootContent"]:style(height: auto !important;)
+kapook.com###readmore.readmore_zone
+kapook.com###atf.collaps:style(height: auto !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

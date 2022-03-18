@@ -183,5 +183,8 @@ www.blognone.com###page-sharing
 thestandard.co##.meta-date + .row
 ! Browser notification
 www.tnnthailand.com###notification-modal
-! App download
+! Download / Open App
 www.blockdit.com##.card-download-suggest
+wetv.vip##.firstToast
+wetv.vip##.abTest .banner
+wetv.vip##.abTest .bannerB

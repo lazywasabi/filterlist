@@ -181,8 +181,8 @@ huawei.com##.huawei-convergent-cookie
 truecorp.co.th###floater-bnr-box
 www.pttor.com###policy_plugin
 www.robinhood.in.th##.cli-modal-backdrop
-www.robinhood.in.th###cookie-law-info-bar
-www.robinhood.in.th###cookie-law-info-again
+www.robinhood.in.th,www.baanlaesuan.com###cookie-law-info-bar
+www.robinhood.in.th,www.baanlaesuan.com###cookie-law-info-again
 www.robinhood.in.th##body.cli-barmodal-open:style(overflow: auto !important;)
 www.bangkokinsurance.com###cookie_consent_popup
 www.viriyah.com##.cookie-consent-eu
@@ -261,6 +261,8 @@ thinkofliving.com##div[class^="PostContentstyle__ShowMoreWrapper"]
 thinkofliving.com##div[class^="PostContentstyle__PostArticle"]:style(max-height: unset !important;)
 www.estopolis.com##.collapse-content
 www.estopolis.com##.article-content-body:style(height: auto !important;)
+www.baanlaesuan.com###btn-readmore
+www.baanlaesuan.com##.all-content.item-collpase:style(max-height: unset !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

@@ -198,6 +198,7 @@ www.singhacorporation.com###cookies
 www.rsmall.com##div[class^="CookieAccept__CookieWrapper"]
 www.susco.co.th###cover-cookie-card
 www.ptgenergy.co.th##.cookiepolicyalert
+www.shellgoplus.com,www.shellsmart.com###_evidon-barrier-wrapper
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

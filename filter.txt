@@ -238,6 +238,9 @@ th.theasianparent.com##.isReadMoreViewHtml-wrap
 th.theasianparent.com##.html-content.snippet.big-hero-content:style(height: auto !important;)
 www.autodeft.com##.read-more-box
 www.autodeft.com##.detail-page-article:style(height: auto !important;)
+www.autoinfo.co.th##.content-readmore
+www.autoinfo.co.th##.read-more
+www.autoinfo.co.th##.box-content:style(max-height: unset !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

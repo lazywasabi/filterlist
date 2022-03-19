@@ -200,6 +200,7 @@ www.susco.co.th###cover-cookie-card
 www.ptgenergy.co.th##.cookiepolicyalert
 www.shellgoplus.com,www.shellsmart.com###_evidon-barrier-wrapper
 www.bloggang.com###forcookie
+www.pantipmarket.com###pmk_snackbar_policy
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

@@ -111,6 +111,7 @@ thebeautrium.com##.bt-popup-backdrop
 majorcineplex.com##.qs-ads
 delivery.doubleapaper.com###ppsPopupBgOverlay
 delivery.doubleapaper.com##.ppsPopupShell
+www.finnomena.com###sticky__ads__section
 
 ! =============== COOKIE NOTICE ===============
 ||www.wongnai.com/_api/consents

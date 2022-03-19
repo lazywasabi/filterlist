@@ -137,8 +137,8 @@ www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
 www.boonthavorn.com##div[class^="popup-popup_conner"]
 
 ! =============== COOKIE NOTICE ===============
-||cookiecdn.com^$third-party
-||script.cookiewow.com^$third-party
+||cookiecdn.com^
+||script.cookiewow.com^
 ||easypdpa.com/*/easycookies.js^
 ||www.wongnai.com/_api/consents
 plus.thairath.co.th##.enmq55h2.css-wfe216

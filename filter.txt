@@ -124,6 +124,10 @@ th.theasianparent.com,community.theasianparent.com##.bottom-sticky-ad
 th.theasianparent.com##.baseLayout .bottom-sticky.layer-bsa-bn-ca:style(min-height: unset !important;)
 www.rakluke.com##.sticky_bottom
 www.estopolis.com###bottomBanner
+www.estopolis.com###banner
+www.estopolis.com##.banner-c1
+www.estopolis.com##.banner-c2
+www.estopolis.com##.banner-c3
 
 ! =============== COOKIE NOTICE ===============
 ||www.wongnai.com/_api/consents
@@ -244,6 +248,8 @@ www.autoinfo.co.th##.read-more
 www.autoinfo.co.th##.box-content:style(max-height: unset !important;)
 thinkofliving.com##div[class^="PostContentstyle__ShowMoreWrapper"]
 thinkofliving.com##div[class^="PostContentstyle__PostArticle"]:style(max-height: unset !important;)
+www.estopolis.com##.collapse-content
+www.estopolis.com##.article-content-body:style(height: auto !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

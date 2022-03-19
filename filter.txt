@@ -4,6 +4,7 @@
 
 ! =============== PRIVACY ===============
 ||www.ikea.com/th/th/analytics/scripts^
+||sink.blockdit.com^
 
 ! =============== ADS ==================
 ||frukt.pantip.com^$domain=pantip.com

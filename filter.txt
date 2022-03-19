@@ -219,6 +219,7 @@ www.trinitythai.com##.consent--wrapper
 th.theasianparent.com##.cookie-widget
 www.rakluke.com##.uk-section.uk-position-bottom.uk-position-fixed.uk-position-z-index
 www.bangkoklife.com###pdpa_div
+vipa.me##app-cookies-banner
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

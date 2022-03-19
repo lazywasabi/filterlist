@@ -131,7 +131,7 @@ www.mcot.net##.accept-policy
 sanook.com###consent_bn.consent
 sanook.com##.isMobile .menuMobileWrap:style(top: 41px !important;)
 sanook.com##.isMobile .overlay:style(top: 41px !important;)
-pantip.com##.pt-snackbar--open.pt-snackbar
+pantip.com,maggang.com##.pt-snackbar--open.pt-snackbar
 dek-d.com###cookiePolicyDialog
 www.phoenixnext.com##.cookie.fixed
 bnn.in.th##.the-pdpa-consent-bar

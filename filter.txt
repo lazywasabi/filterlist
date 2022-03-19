@@ -2,11 +2,12 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/lazywasabi/filterlist
 
-! =============== HOST ===============
-! Ads on www.checkraka.com
-||www.abgadvertising.com^
+! =============== PRIVACY ===============
+||www.ikea.com/th/th/analytics/scripts^
 
 ! =============== ADS ==================
+! Ads on www.checkraka.com
+||www.abgadvertising.com^
 ! Article page ads
 thairath.co.th##.e2xssn00.css-18f5y4r
 thairath.co.th##.e2xssn00.css-xflhx3

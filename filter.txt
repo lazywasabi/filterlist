@@ -201,6 +201,7 @@ www.ptgenergy.co.th##.cookiepolicyalert
 www.shellgoplus.com,www.shellsmart.com###_evidon-barrier-wrapper
 www.bloggang.com###forcookie
 www.pantipmarket.com###pmk_snackbar_policy
+www.pantown.com##.ptcp-cookie
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

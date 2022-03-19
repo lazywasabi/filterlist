@@ -261,9 +261,9 @@ thinkofliving.com##div[class^="PostContentstyle__ShowMoreWrapper"]
 thinkofliving.com##div[class^="PostContentstyle__PostArticle"]:style(max-height: unset !important;)
 www.estopolis.com##.collapse-content
 www.estopolis.com##.article-content-body:style(height: auto !important;)
-www.baanlaesuan.com,sudsapda.com###btn-readmore
+www.baanlaesuan.com,sudsapda.com,praew.com###btn-readmore
 www.baanlaesuan.com##.all-content.item-collpase:style(max-height: unset !important;)
-sudsapda.com##.all-content.item-collapse:style(max-height: unset !important;)
+sudsapda.com,praew.com##.all-content.item-collapse:style(max-height: unset !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)
@@ -287,4 +287,4 @@ www.homepro.co.th###app-popup-container
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 ! Autoplay video
-sudsapda.com##.container-main-vdo
+sudsapda.com,praew.com##.container-main-vdo

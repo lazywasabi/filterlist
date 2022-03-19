@@ -106,6 +106,8 @@ store.boots.co.th##body.modal-open:style(overflow: unset !important;)
 www.true-shopping.com###banner-modal___BV_modal_outer_
 thebeautrium.com##.bt-popup-backdrop
 majorcineplex.com##.qs-ads
+delivery.doubleapaper.com###ppsPopupBgOverlay
+delivery.doubleapaper.com##.ppsPopupShell
 
 ! =============== COOKIE NOTICE ===============
 plus.thairath.co.th##.enmq55h2.css-wfe216

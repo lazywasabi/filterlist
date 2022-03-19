@@ -113,6 +113,15 @@ delivery.doubleapaper.com###ppsPopupBgOverlay
 delivery.doubleapaper.com##.ppsPopupShell
 www.finnomena.com###sticky__ads__section
 www.longtunman.com##div[data-testid="feed/Feed/ad"]
+th.theasianparent.com##.ads-slot-wrapper
+th.theasianparent.com##.ivs-floating-widget
+th.theasianparent.com##.top-sticky-container
+th.theasianparent.com##.ads-open-placeholder
+th.theasianparent.com###headerFloting:style(top: 0 !important;)
+th.theasianparent.com##body.show-top-sticky-container:style(padding-top: 100px !important;)
+th.theasianparent.com##body.home-page.show-top-sticky-container:style(padding-top: 50px !important;)
+th.theasianparent.com,community.theasianparent.com##.bottom-sticky-ad
+th.theasianparent.com##.baseLayout .bottom-sticky.layer-bsa-bn-ca:style(min-height: unset !important;)
 
 ! =============== COOKIE NOTICE ===============
 ||www.wongnai.com/_api/consents
@@ -206,6 +215,7 @@ www.pantipmarket.com###pmk_snackbar_policy
 www.pantown.com##.ptcp-cookie
 www.finnomena.com###consent-banner
 www.trinitythai.com##.consent--wrapper
+th.theasianparent.com##.cookie-widget
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article
@@ -220,6 +230,8 @@ www.punpro.com##div[class^="BlockContent__BlockReadMore"]
 www.punpro.com##div[class^="BlockContent__RootContent"]:style(height: auto !important;)
 kapook.com###readmore.readmore_zone
 kapook.com###atf.collaps:style(height: auto !important;)
+th.theasianparent.com##.isReadMoreViewHtml-wrap
+th.theasianparent.com##.html-content.snippet.big-hero-content:style(height: auto !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

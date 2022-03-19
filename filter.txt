@@ -6,6 +6,7 @@
 ||www.ikea.com/th/th/analytics/scripts^
 
 ! =============== ADS ==================
+||frukt.pantip.com^$domain=pantip.com
 ! Ads on www.checkraka.com
 ||www.abgadvertising.com^
 ! Article page ads

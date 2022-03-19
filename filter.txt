@@ -236,6 +236,8 @@ kapook.com###readmore.readmore_zone
 kapook.com###atf.collaps:style(height: auto !important;)
 th.theasianparent.com##.isReadMoreViewHtml-wrap
 th.theasianparent.com##.html-content.snippet.big-hero-content:style(height: auto !important;)
+www.autodeft.com##.read-more-box
+www.autodeft.com##.detail-page-article:style(height: auto !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

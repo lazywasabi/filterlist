@@ -196,6 +196,7 @@ www.suzuki.co.th##.block-cookie
 map.nostramap.com##.acceptCookieBar
 www.singhacorporation.com###cookies
 www.rsmall.com##div[class^="CookieAccept__CookieWrapper"]
+www.susco.co.th###cover-cookie-card
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

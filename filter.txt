@@ -204,6 +204,7 @@ www.bloggang.com###forcookie
 www.pantipmarket.com###pmk_snackbar_policy
 www.pantown.com##.ptcp-cookie
 www.finnomena.com###consent-banner
+www.trinitythai.com##.consent--wrapper
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

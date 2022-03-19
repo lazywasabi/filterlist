@@ -131,13 +131,16 @@ www.estopolis.com##.banner-c3
 www.siamsport.co.th##.ss-area-bottom:style(display: block !important;)
 www.siamsport.co.th##.ss-area-bottom a:style(display: block !important;)
 www.siamsport.co.th##.ads_rectang
+www.nationthailand.com##.--ads-billboard
+www.nationthailand.com##.overflow-ads-content
+www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
 
 ! =============== COOKIE NOTICE ===============
 ||www.wongnai.com/_api/consents
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
 www.khaosod.co.th,www.matichonweekly.com###pdpa-popup
-www.komchadluek.net###accept-cookie-footer
+www.komchadluek.net,www.nationthailand.com###accept-cookie-footer
 www.siamsport.co.th##div#popup-ss.popup-box.cd-morph-dropdown
 workpointtoday.com###cookie.sticky
 techsauce.co##.cwc-cookie-banner-ui-sdk

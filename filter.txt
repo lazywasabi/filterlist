@@ -110,6 +110,7 @@ delivery.doubleapaper.com###ppsPopupBgOverlay
 delivery.doubleapaper.com##.ppsPopupShell
 
 ! =============== COOKIE NOTICE ===============
+||www.wongnai.com/_api/consents
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
 www.khaosod.co.th,www.matichonweekly.com###pdpa-popup
@@ -127,10 +128,6 @@ www.mcot.net##.accept-policy
 sanook.com###consent_bn.consent
 sanook.com##.isMobile .menuMobileWrap:style(top: 41px !important;)
 sanook.com##.isMobile .overlay:style(top: 41px !important;)
-www.wongnai.com##.jrXVKY.Container-sc-1it4kq4
-www.wongnai.com##.jjyVTp.Container-sc-17fa8e4
-www.wongnai.com##.euieDG.Container-sc-1it4kq4
-www.wongnai.com##.inuTsc.Container-sc-17fa8e4
 pantip.com##.pt-snackbar--open.pt-snackbar
 dek-d.com###cookiePolicyDialog
 www.phoenixnext.com##.cookie.fixed

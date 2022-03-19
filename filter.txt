@@ -202,6 +202,7 @@ www.shellgoplus.com,www.shellsmart.com###_evidon-barrier-wrapper
 www.bloggang.com###forcookie
 www.pantipmarket.com###pmk_snackbar_policy
 www.pantown.com##.ptcp-cookie
+www.finnomena.com###consent-banner
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

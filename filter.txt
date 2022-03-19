@@ -138,6 +138,7 @@ www.boonthavorn.com##div[class^="popup-popup_conner"]
 
 ! =============== COOKIE NOTICE ===============
 ||cookiecdn.com^$third-party
+||script.cookiewow.com^$third-party
 ||www.wongnai.com/_api/consents
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert

@@ -134,6 +134,7 @@ www.siamsport.co.th##.ads_rectang
 www.nationthailand.com##.--ads-billboard
 www.nationthailand.com##.overflow-ads-content
 www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
+www.boonthavorn.com##div[class^="popup-popup_conner"]
 
 ! =============== COOKIE NOTICE ===============
 ||www.wongnai.com/_api/consents

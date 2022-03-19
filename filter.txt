@@ -140,6 +140,7 @@ www.boonthavorn.com##div[class^="popup-popup_conner"]
 ||cookiecdn.com^
 ||script.cookiewow.com^
 ||easypdpa.com/*/easycookies.js^
+||cdn.cea.or.th/pdpa/cookie.js^
 ||www.wongnai.com/_api/consents
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert

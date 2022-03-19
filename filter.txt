@@ -218,6 +218,7 @@ www.finnomena.com###consent-banner
 www.trinitythai.com##.consent--wrapper
 th.theasianparent.com##.cookie-widget
 www.rakluke.com##.uk-section.uk-position-bottom.uk-position-fixed.uk-position-z-index
+www.bangkoklife.com###pdpa_div
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

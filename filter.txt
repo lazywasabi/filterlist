@@ -197,6 +197,7 @@ map.nostramap.com##.acceptCookieBar
 www.singhacorporation.com###cookies
 www.rsmall.com##div[class^="CookieAccept__CookieWrapper"]
 www.susco.co.th###cover-cookie-card
+www.ptgenergy.co.th##.cookiepolicyalert
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

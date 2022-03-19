@@ -225,6 +225,7 @@ th.theasianparent.com##.cookie-widget
 www.rakluke.com##.uk-section.uk-position-bottom.uk-position-fixed.uk-position-z-index
 www.bangkoklife.com###pdpa_div
 vipa.me##app-cookies-banner
+www.home.co.th###cookieAcceptBar
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

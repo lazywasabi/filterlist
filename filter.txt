@@ -137,6 +137,8 @@ www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
 www.boonthavorn.com##div[class^="popup-popup_conner"]
 
 ! =============== COOKIE NOTICE ===============
+||cookiecdn.com^$third-party
+||script.cookiewow.com^$third-party
 ||www.wongnai.com/_api/consents
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
@@ -144,7 +146,6 @@ www.khaosod.co.th,www.matichonweekly.com###pdpa-popup
 www.komchadluek.net,www.nationthailand.com###accept-cookie-footer
 www.siamsport.co.th##div#popup-ss.popup-box.cd-morph-dropdown
 workpointtoday.com###cookie.sticky
-techsauce.co##.cwc-cookie-banner-ui-sdk
 prachatai.com##.sliding-popup-bottom
 www.pptvhd36.com##.pptvbox--policy.active
 www.thansettakij.com,www.bangkokbiznews.com,www.nationtv.tv,www.springnews.co.th##.sticky-cookie
@@ -198,7 +199,6 @@ waymagazine.org,www.topnews.co.th##.dpdpa--popup
 www.tmrwbyuob.com##.com-information-bar
 www.kawebook.com###pdpaPopup
 fastwork.co##.cookie-consent-bar
-www.skooldio.com##.cwc-cookie-banner-ui-sdk
 1112.com##.cookies
 www.starbucks.co.th##.mpp-container-position-bottom-bar
 www.burgerking.co.th##.div-keep-cookie

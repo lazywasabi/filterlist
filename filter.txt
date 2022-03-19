@@ -123,6 +123,7 @@ th.theasianparent.com##body.home-page.show-top-sticky-container:style(padding-to
 th.theasianparent.com,community.theasianparent.com##.bottom-sticky-ad
 th.theasianparent.com##.baseLayout .bottom-sticky.layer-bsa-bn-ca:style(min-height: unset !important;)
 www.rakluke.com##.sticky_bottom
+www.estopolis.com###bottomBanner
 
 ! =============== COOKIE NOTICE ===============
 ||www.wongnai.com/_api/consents

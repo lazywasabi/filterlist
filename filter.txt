@@ -239,6 +239,7 @@ vipa.me##app-cookies-banner
 www.home.co.th###cookieAcceptBar
 www.apthai.com##.cookies-consent
 mirrorthailand.com##.e1x3rkp81
+www.true4u.com###popup-privacy
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article
@@ -282,6 +283,7 @@ thestandard.co##.meta-date + .row
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify
+www.true4u.com###notification-modal
 ! Download / Open App
 www.blockdit.com##.card-download-suggest
 wetv.vip##.firstToast

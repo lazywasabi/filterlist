@@ -231,6 +231,7 @@ www.bangkoklife.com###pdpa_div
 vipa.me##app-cookies-banner
 www.home.co.th###cookieAcceptBar
 www.apthai.com##.cookies-consent
+mirrorthailand.com##.e1x3rkp81
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

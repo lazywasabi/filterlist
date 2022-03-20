@@ -269,6 +269,8 @@ sudsapda.com,praew.com##.all-content.item-collapse:style(max-height: unset !impo
 korism.com,jarm.com##.read-more
 korism.com###news-detail:style(max-height: unset !important;)
 jarm.com##.news-detail:style(max-height: unset !important;)
+www.amarintv.com##.goapp-mask
+www.amarintv.com###_popIn_read_more_container:style(max-height: unset !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

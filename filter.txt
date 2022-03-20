@@ -128,6 +128,8 @@ www.nationthailand.com##.--ads-billboard
 www.nationthailand.com##.overflow-ads-content
 www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
 www.boonthavorn.com##div[class^="popup-popup_conner"]
+www.korseries.com##.code-block-viu-widget
+www.korseries.com##.code-block-viu-widget-sidebar
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

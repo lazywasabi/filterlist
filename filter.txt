@@ -132,6 +132,7 @@ www.korseries.com##.code-block-viu-widget
 www.korseries.com##.code-block-viu-widget-sidebar
 korism.com,jarm.com##._popIn_polymer_ad_container
 mono29.com##.google_ads_place
+www.autospinn.com##.c-entry-box--ads
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

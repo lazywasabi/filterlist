@@ -130,6 +130,8 @@ www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
 www.boonthavorn.com##div[class^="popup-popup_conner"]
 
 ! =============== COOKIE NOTICE ===============
+/designil-pdpa-cookie.min.js^
+/designil-pdpa-public.min.js^
 ||cookiecdn.com^
 ||script.cookiewow.com^
 ||easypdpa.com/*/easycookies.js^

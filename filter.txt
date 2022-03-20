@@ -283,4 +283,4 @@ www.homepro.co.th###app-popup-container
 www.sfcinemacity.com##.float-subscribe
 ! Autoplay video
 sudsapda.com,praew.com##.container-main-vdo
-www.thairath.co.th##.dugout-video
+thairath.co.th##.dugout-video

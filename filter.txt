@@ -133,6 +133,7 @@ www.korseries.com##.code-block-viu-widget-sidebar
 korism.com,jarm.com##._popIn_polymer_ad_container
 mono29.com##.google_ads_place
 www.autospinn.com##.c-entry-box--ads
+postjung.com###sidesticky
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -287,6 +288,7 @@ thestandard.co##.meta-date + .row
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify
 www.true4u.com###notification-modal
+postjung.com###wpprpop
 ! Download / Open App
 www.blockdit.com##.card-download-suggest
 wetv.vip##.firstToast

@@ -130,6 +130,7 @@ www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
 www.boonthavorn.com##div[class^="popup-popup_conner"]
 www.korseries.com##.code-block-viu-widget
 www.korseries.com##.code-block-viu-widget-sidebar
+korism.com,jarm.com##._popIn_polymer_ad_container
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -264,6 +265,9 @@ www.estopolis.com##.article-content-body:style(height: auto !important;)
 www.baanlaesuan.com,sudsapda.com,praew.com###btn-readmore
 www.baanlaesuan.com##.all-content.item-collpase:style(max-height: unset !important;)
 sudsapda.com,praew.com##.all-content.item-collapse:style(max-height: unset !important;)
+korism.com,jarm.com##.read-more
+korism.com###news-detail:style(max-height: unset !important;)
+jarm.com##.news-detail:style(max-height: unset !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

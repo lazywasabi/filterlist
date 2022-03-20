@@ -131,6 +131,7 @@ www.boonthavorn.com##div[class^="popup-popup_conner"]
 www.korseries.com##.code-block-viu-widget
 www.korseries.com##.code-block-viu-widget-sidebar
 korism.com,jarm.com##._popIn_polymer_ad_container
+mono29.com##.google_ads_place
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

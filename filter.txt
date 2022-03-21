@@ -144,6 +144,8 @@ teroradio.com###leaderboard-billboard:style(height: 0 !important; background: no
 teroradio.com##.ads_fg
 teroasia.com##.news-sponsor-script
 teroasia.com##.main-video:style(margin-top: 0 !important;)
+www.90min.com##.style_1n7yize
+www.90min.com##.style_1ngkwsz-o_O-style_1ts1q2h
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

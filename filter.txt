@@ -243,6 +243,7 @@ www.home.co.th###cookieAcceptBar
 www.apthai.com##.cookies-consent
 mirrorthailand.com##.e1x3rkp81
 www.true4u.com###popup-privacy
+kaihuaror.com##.cookie-accept
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

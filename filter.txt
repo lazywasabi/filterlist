@@ -136,6 +136,10 @@ www.autospinn.com##.c-entry-box--ads
 postjung.com###sidesticky
 hdmall.co.th##.static-banner
 hdmall.co.th##.banneralert
+teroradio.com###leaderboard_a
+teroradio.com###leaderboard
+teroradio.com###leaderboard-billboard:style(height: 0 !important; background: none !important;)
+teroradio.com##.ads_fg
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -244,6 +248,7 @@ www.apthai.com##.cookies-consent
 mirrorthailand.com##.e1x3rkp81
 www.true4u.com###popup-privacy
 kaihuaror.com##.cookie-accept
+teroradio.com##.policy
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article
@@ -260,7 +265,7 @@ kapook.com###readmore.readmore_zone
 kapook.com###atf.collaps:style(height: auto !important;)
 th.theasianparent.com##.isReadMoreViewHtml-wrap
 th.theasianparent.com##.html-content.snippet.big-hero-content:style(height: auto !important;)
-www.autodeft.com##.read-more-box
+www.autodeft.com,teroradio.com##.read-more-box
 www.autodeft.com##.detail-page-article:style(height: auto !important;)
 www.autoinfo.co.th##.content-readmore
 www.autoinfo.co.th##.read-more
@@ -280,6 +285,7 @@ www.amarintv.com###_popIn_read_more_container:style(max-height: unset !important
 www.mushroomtravel.com##.view-more-content
 www.mushroomtravel.com##.content-detail-container:after
 www.mushroomtravel.com##.content-detail-container:style(max-height: unset !important; margin-bottom: 0;)
+teroradio.com##.articles-detail:style(max-height: unset !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)
@@ -309,3 +315,8 @@ sudsapda.com,praew.com,www.amarinbabyandkids.com,goodlifeupdate.com##.container-
 thairath.co.th##.dugout-video
 ||player.ivideosmart.com^$domain=www.silpa-mag.com|www.technologychaoban.com|www.sentangsedtee.com|www.matichonweekly.com
 www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com##.td-a-rec
+! Survey
+teroradio.com##.modal-open:style(overflow: auto !important;)
+teroradio.com###surveryModal
+teroradio.com##.modal-backdrop
+teroradio.com###tritonsurvey

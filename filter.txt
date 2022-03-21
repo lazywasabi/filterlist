@@ -260,6 +260,9 @@ teroradio.com##.policy
 www.jobthai.com##.zlzj82-0
 www.taokaenoi.co.th###pdpapopup
 cpfreshmartshop.com##div[data-v-8ce03598]
+shop.dexclub.com,m.dexclub.com###modal3
+shop.dexclub.com,m.dexclub.com##.modal-backdrop
+shop.dexclub.com,m.dexclub.com##.modal-open:style(overflow: auto !important;)
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

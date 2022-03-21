@@ -161,6 +161,7 @@ www.kingpower.com##div[class^="with-floating-banners__FloatingBanner"]
 ||www.wongnai.com/_api/consents^$domain=www.wongnai.com
 ||static.ch7.com/js/libch7-pdpa-ch7.js^$domain=ch7.com
 ||static.ch7.com/js/utilPdpa.js^$domain=ch7.com
+||www.viu.com/ott/misc/widget^$subdocument,domain=www.hallyukstar.com|www.korseries.com
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
 www.khaosod.co.th,www.matichonweekly.com###pdpa-popup
@@ -265,6 +266,7 @@ cpfreshmartshop.com##div[data-v-8ce03598]
 shop.dexclub.com,m.dexclub.com###modal3
 shop.dexclub.com,m.dexclub.com##.modal-backdrop
 shop.dexclub.com,m.dexclub.com##.modal-open:style(overflow: auto !important;)
+www.hallyukstar.com##.stream-item
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article
@@ -302,6 +304,9 @@ www.mushroomtravel.com##.view-more-content
 www.mushroomtravel.com##.content-detail-container:after
 www.mushroomtravel.com##.content-detail-container:style(max-height: unset !important; margin-bottom: 0;)
 teroradio.com##.articles-detail:style(max-height: unset !important;)
+www.hallyukstar.com##.toggle-post-content
+www.hallyukstar.com###the-post .entry:style(max-height: unset !important;)
+www.hallyukstar.com##.entry.entry-content:before
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

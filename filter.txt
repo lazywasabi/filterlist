@@ -330,7 +330,7 @@ www.zipeventapp.com##.tve-leads-lightbox
 www.zipeventapp.com##html.tve-l-open:style(overflow: auto !important;)
 www.zipeventapp.com##body.tve-l-open:style(overflow: auto !important;)
 ! Autoplay video
-sudsapda.com,praew.com,www.amarinbabyandkids.com,goodlifeupdate.com##.container-main-vdo
+sudsapda.com,praew.com,www.amarinbabyandkids.com,goodlifeupdate.com,www.baanlaesuan.com##.container-main-vdo
 thairath.co.th##.dugout-video
 ||player.ivideosmart.com^$domain=www.silpa-mag.com|www.technologychaoban.com|www.sentangsedtee.com|www.matichonweekly.com
 www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com##.td-a-rec

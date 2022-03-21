@@ -8,6 +8,7 @@
 
 ! =============== ADS ==================
 ||frukt.pantip.com^$domain=pantip.com
+||code.evidence.io^$domain=www.zipeventapp.com
 ! Ads on www.checkraka.com
 ||www.abgadvertising.com^
 thairath.co.th##.e2xssn00
@@ -184,7 +185,7 @@ www.set.or.th###pdpa-policy
 www.scb.co.th##.consent_wrapper
 www.krungsri.com##.modal-backdrop.show
 www.krungsri.com##body.modal-open:style(overflow: auto !important;)
-www.ttbbank.com###cookies-consent
+www.ttbbank.com,www.zipeventapp.com###cookies-consent
 www.gsb.or.th##.cc-container
 krungthai.com###cookie_consent_popup
 rewards.rabbit.co.th##.collect-cookies
@@ -321,6 +322,9 @@ shopee.co.th##._1Xq3Qi
 www.shopat24.com###mobile-app-promotion
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
+www.zipeventapp.com##.tve-leads-lightbox
+www.zipeventapp.com##html.tve-l-open:style(overflow: auto !important;)
+www.zipeventapp.com##body.tve-l-open:style(overflow: auto !important;)
 ! Autoplay video
 sudsapda.com,praew.com,www.amarinbabyandkids.com,goodlifeupdate.com##.container-main-vdo
 thairath.co.th##.dugout-video

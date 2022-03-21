@@ -177,7 +177,7 @@ sanook.com##.isMobile .menuMobileWrap:style(top: 41px !important;)
 sanook.com##.isMobile .overlay:style(top: 41px !important;)
 pantip.com,maggang.com##.pt-snackbar--open.pt-snackbar
 dek-d.com###cookiePolicyDialog
-www.phoenixnext.com##.cookie.fixed
+www.phoenixnext.com,becommon.co##.cookie
 bnn.in.th##.the-pdpa-consent-bar
 www.advice.co.th##.foot-cookie
 www.se-ed.com###cookies

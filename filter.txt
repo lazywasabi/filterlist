@@ -255,6 +255,7 @@ kaihuaror.com##.cookie-accept
 teroradio.com##.policy
 www.jobthai.com##.zlzj82-0
 www.taokaenoi.co.th###pdpapopup
+cpfreshmartshop.com##div[data-v-8ce03598]
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

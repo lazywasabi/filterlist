@@ -140,6 +140,8 @@ teroradio.com###leaderboard_a
 teroradio.com###leaderboard
 teroradio.com###leaderboard-billboard:style(height: 0 !important; background: none !important;)
 teroradio.com##.ads_fg
+teroasia.com##.news-sponsor-script
+teroasia.com##.main-video:style(margin-top: 0 !important;)
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

@@ -304,3 +304,5 @@ www.sfcinemacity.com##.float-subscribe
 ! Autoplay video
 sudsapda.com,praew.com,www.amarinbabyandkids.com,goodlifeupdate.com##.container-main-vdo
 thairath.co.th##.dugout-video
+||player.ivideosmart.com^$domain=www.silpa-mag.com|www.technologychaoban.com|www.sentangsedtee.com|www.matichonweekly.com
+www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com##.td-a-rec

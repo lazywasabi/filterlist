@@ -253,6 +253,7 @@ mirrorthailand.com##.e1x3rkp81
 www.true4u.com###popup-privacy
 kaihuaror.com##.cookie-accept
 teroradio.com##.policy
+www.jobthai.com##.zlzj82-0
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

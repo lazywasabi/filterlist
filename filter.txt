@@ -148,6 +148,8 @@ teroasia.com##.news-sponsor-script
 teroasia.com##.main-video:style(margin-top: 0 !important;)
 www.90min.com##.style_1n7yize
 www.90min.com##.style_1ngkwsz-o_O-style_1ts1q2h
+www.kingpower.com##div[class^="ModalBanner__ModalBanner"]
+www.kingpower.com##div[class^="with-floating-banners__FloatingBanner"]
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -324,6 +326,7 @@ www.viu.com###web_to_app_container
 www.homepro.co.th###app-popup-container
 shopee.co.th##._1Xq3Qi
 www.shopat24.com###mobile-app-promotion
+www.kingpower.com##div[class^="AppBanner__AppBannerLayout"]
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 www.zipeventapp.com##.tve-leads-lightbox

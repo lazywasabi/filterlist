@@ -254,6 +254,7 @@ www.true4u.com###popup-privacy
 kaihuaror.com##.cookie-accept
 teroradio.com##.policy
 www.jobthai.com##.zlzj82-0
+www.taokaenoi.co.th###pdpapopup
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

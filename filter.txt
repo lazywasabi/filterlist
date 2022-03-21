@@ -134,6 +134,8 @@ korism.com,jarm.com##._popIn_polymer_ad_container
 mono29.com##.google_ads_place
 www.autospinn.com##.c-entry-box--ads
 postjung.com###sidesticky
+hdmall.co.th##.static-banner
+hdmall.co.th##.banneralert
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

@@ -151,6 +151,8 @@ www.90min.com##.style_1ngkwsz-o_O-style_1ts1q2h
 www.kingpower.com##div[class^="ModalBanner__ModalBanner"]
 www.kingpower.com##div[class^="with-floating-banners__FloatingBanner"]
 www.ejan.co##.app-ad
+techxcite.com##.ads
+techxcite.com##.ads_sm
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

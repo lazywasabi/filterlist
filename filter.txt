@@ -153,6 +153,11 @@ www.kingpower.com##div[class^="with-floating-banners__FloatingBanner"]
 www.ejan.co##.app-ad
 techxcite.com##.ads
 techxcite.com##.ads_sm
+www.dek-d.com###global-ads
+www.dek-d.com##.aside-banner
+www.dek-d.com###banner-bigbox
+www.dek-d.com###big-box
+www.dek-d.com,writer.dek-d.com###banner-panorama
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -335,6 +340,7 @@ www.homepro.co.th###app-popup-container
 shopee.co.th##._1Xq3Qi
 www.shopat24.com###mobile-app-promotion
 www.kingpower.com##div[class^="AppBanner__AppBannerLayout"]
+writer.dek-d.com###banner-openapp
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 www.zipeventapp.com##.tve-leads-lightbox

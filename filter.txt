@@ -35,6 +35,8 @@ thestandard.co###fixedban
 www.siamsport.co.th###sticky_bottom_rail
 ! Popup ads
 shopee.co.th##shopee-banner-popup-stateful
+shopee.co.th##.shopee-no-scroll:style(overflow: auto !important;)
+shopee.co.th##.shopee-floating-icon
 jd.co.th##.cp-curtain
 techsauce.co###popup-banner.modal
 techsauce.co##body.modal-open:style(overflow: auto !important;)
@@ -310,6 +312,7 @@ www.joox.com##.stickyFooter.active
 www.joox.com##body:style(overflow: auto !important;)
 www.viu.com###web_to_app_container
 www.homepro.co.th###app-popup-container
+shopee.co.th##._1Xq3Qi
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 ! Autoplay video

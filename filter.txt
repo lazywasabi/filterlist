@@ -316,6 +316,7 @@ www.joox.com##body:style(overflow: auto !important;)
 www.viu.com###web_to_app_container
 www.homepro.co.th###app-popup-container
 shopee.co.th##._1Xq3Qi
+www.shopat24.com###mobile-app-promotion
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 ! Autoplay video

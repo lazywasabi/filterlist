@@ -276,6 +276,7 @@ shop.dexclub.com,m.dexclub.com##.modal-backdrop
 shop.dexclub.com,m.dexclub.com##.modal-open:style(overflow: auto !important;)
 www.hallyukstar.com##.stream-item
 motorshow.in.th##.pdpa-consent-wrap
+www.tkpark.or.th###box-ck
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

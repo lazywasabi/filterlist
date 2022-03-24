@@ -275,6 +275,7 @@ shop.dexclub.com,m.dexclub.com###modal3
 shop.dexclub.com,m.dexclub.com##.modal-backdrop
 shop.dexclub.com,m.dexclub.com##.modal-open:style(overflow: auto !important;)
 www.hallyukstar.com##.stream-item
+motorshow.in.th##.pdpa-consent-wrap
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

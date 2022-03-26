@@ -128,6 +128,7 @@ www.estopolis.com##.banner-c3
 www.siamsport.co.th##.ss-area-bottom:style(display: block !important;)
 www.siamsport.co.th##.ss-area-bottom a:style(display: block !important;)
 www.siamsport.co.th##.ads_rectang
+www.siamsport.co.th##.default_vdo.move_vdo
 www.nationthailand.com##.--ads-billboard
 www.nationthailand.com##.overflow-ads-content
 www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
@@ -277,6 +278,7 @@ shop.dexclub.com,m.dexclub.com##.modal-open:style(overflow: auto !important;)
 www.hallyukstar.com##.stream-item
 motorshow.in.th##.pdpa-consent-wrap
 www.tkpark.or.th###box-ck
+
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

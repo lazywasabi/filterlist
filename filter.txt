@@ -119,7 +119,7 @@ th.theasianparent.com##body.show-top-sticky-container:style(padding-top: 100px !
 th.theasianparent.com##body.home-page.show-top-sticky-container:style(padding-top: 50px !important;)
 th.theasianparent.com,community.theasianparent.com##.bottom-sticky-ad
 th.theasianparent.com##.baseLayout .bottom-sticky.layer-bsa-bn-ca:style(min-height: unset !important;)
-www.rakluke.com##.sticky_bottom
+www.rakluke.com,www.themacho.co##.sticky_bottom
 www.estopolis.com###bottomBanner
 www.estopolis.com###banner
 www.estopolis.com##.banner-c1
@@ -159,6 +159,7 @@ www.dek-d.com##.aside-banner
 www.dek-d.com###banner-bigbox
 www.dek-d.com###big-box
 www.dek-d.com,writer.dek-d.com###banner-panorama
+sticky_bottom
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

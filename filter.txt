@@ -159,7 +159,7 @@ www.dek-d.com##.aside-banner
 www.dek-d.com###banner-bigbox
 www.dek-d.com###big-box
 www.dek-d.com,writer.dek-d.com###banner-panorama
-sticky_bottom
+www.smmsport.com##.ads-sticky-bottom-mobile,.ads-margin-bottom-1rem
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

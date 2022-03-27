@@ -160,6 +160,7 @@ www.dek-d.com###banner-bigbox
 www.dek-d.com###big-box
 www.dek-d.com,writer.dek-d.com###banner-panorama
 www.smmsport.com##.ads-sticky-bottom-mobile,.ads-margin-bottom-1rem
+www.daradaily.com###float_pop_div
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

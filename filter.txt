@@ -163,6 +163,7 @@ www.dek-d.com,writer.dek-d.com###banner-panorama
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
 /designil-pdpa-public.min.js^
+/pdpa-thailand-public.js^
 ||cookiecdn.com^
 ||script.cookiewow.com^
 ||easypdpa.com/*/easycookies.js^
@@ -226,7 +227,6 @@ www.joox.com##.pdpa
 www.coolism.net##div[class^="AcceptCookie__AcceptCookieWrapper"]
 www.monomax.me##.fixed-bottom.form-cookie
 www.viu.com###pdpa_consent_box
-waymagazine.org,www.topnews.co.th##.dpdpa--popup
 www.tmrwbyuob.com##.com-information-bar
 www.kawebook.com###pdpaPopup
 fastwork.co##.cookie-consent-bar

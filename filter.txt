@@ -320,6 +320,8 @@ teroradio.com##.articles-detail:style(max-height: unset !important;)
 www.hallyukstar.com##.toggle-post-content
 www.hallyukstar.com###the-post .entry:style(max-height: unset !important;)
 www.hallyukstar.com##.entry.entry-content:before
+www.msn.com##.readmoremobile
+www.msn.com##.articlebody:style(max-height: unset !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

@@ -95,7 +95,7 @@ www.checkraka.com##.modal-backdrop.show
 www.checkraka.com##body.modal-open:style(overflow: auto !important;)
 www.checkraka.com###banner-z
 www.checkraka.com###banner-A
-www.checkraka.com##.banner
+www.checkraka.com,thsport.com##.banner
 www.checkraka.com##.section#online
 www.checkraka.com###item-recommend
 www.checkraka.com##.content .contentbox .right-content

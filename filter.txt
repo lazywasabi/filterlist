@@ -119,7 +119,7 @@ th.theasianparent.com##body.show-top-sticky-container:style(padding-top: 100px !
 th.theasianparent.com##body.home-page.show-top-sticky-container:style(padding-top: 50px !important;)
 th.theasianparent.com,community.theasianparent.com##.bottom-sticky-ad
 th.theasianparent.com##.baseLayout .bottom-sticky.layer-bsa-bn-ca:style(min-height: unset !important;)
-www.rakluke.com##.sticky_bottom
+www.rakluke.com,www.themacho.co##.sticky_bottom
 www.estopolis.com###bottomBanner
 www.estopolis.com###banner
 www.estopolis.com##.banner-c1
@@ -159,10 +159,12 @@ www.dek-d.com##.aside-banner
 www.dek-d.com###banner-bigbox
 www.dek-d.com###big-box
 www.dek-d.com,writer.dek-d.com###banner-panorama
+sticky_bottom
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
 /designil-pdpa-public.min.js^
+/pdpa-thailand-public.js^
 ||cookiecdn.com^
 ||script.cookiewow.com^
 ||easypdpa.com/*/easycookies.js^
@@ -226,7 +228,6 @@ www.joox.com##.pdpa
 www.coolism.net##div[class^="AcceptCookie__AcceptCookieWrapper"]
 www.monomax.me##.fixed-bottom.form-cookie
 www.viu.com###pdpa_consent_box
-waymagazine.org,www.topnews.co.th##.dpdpa--popup
 www.tmrwbyuob.com##.com-information-bar
 www.kawebook.com###pdpaPopup
 fastwork.co##.cookie-consent-bar

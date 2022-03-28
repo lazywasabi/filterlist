@@ -109,7 +109,7 @@ majorcineplex.com##.qs-ads
 delivery.doubleapaper.com###ppsPopupBgOverlay
 delivery.doubleapaper.com##.ppsPopupShell
 www.finnomena.com###sticky__ads__section
-www.longtunman.com##div[data-testid="feed/Feed/ad"]
+www.longtunman.com,www.marketthink.co##div[data-testid="feed/Feed/ad"]
 th.theasianparent.com##.ads-slot-wrapper
 th.theasianparent.com##.ivs-floating-widget
 th.theasianparent.com##.top-sticky-container

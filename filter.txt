@@ -165,6 +165,7 @@ www.smmsport.com##.ads-sticky-bottom-mobile,.ads-margin-bottom-1rem
 www.daradaily.com###float_pop_div
 www.thaiticketmajor.com###popup-recommend
 www.thaiticketmajor.com##.box-banner-top.visible-xs
+www.autofun.co.th##.business-config-wrapper
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -331,6 +332,8 @@ www.msn.com##.articlebody:style(max-height: unset !important;)
 www.thaiticketmajor.com##.box-btn-read-more
 www.thaiticketmajor.com##.detail-wrp:style(max-height: unset !important;)
 www.thaiticketmajor.com##.detail-wrp:after
+www.autofun.co.th##.fold-container
+www.autofun.co.th##.fold-status .main-container:style(height: auto !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

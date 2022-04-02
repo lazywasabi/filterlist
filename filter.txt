@@ -161,6 +161,8 @@ www.dek-d.com###big-box
 www.dek-d.com,writer.dek-d.com###banner-panorama
 www.smmsport.com##.ads-sticky-bottom-mobile,.ads-margin-bottom-1rem
 www.daradaily.com###float_pop_div
+www.thaiticketmajor.com###popup-recommend
+www.thaiticketmajor.com##.box-banner-top.visible-xs
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -281,6 +283,7 @@ www.hallyukstar.com##.stream-item
 motorshow.in.th##.pdpa-consent-wrap
 www.tkpark.or.th###box-ck
 jaymartstore.com###consent-noti
+thaiticketmajor.com##.privacy-policy-bar
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article
@@ -323,6 +326,9 @@ www.hallyukstar.com###the-post .entry:style(max-height: unset !important;)
 www.hallyukstar.com##.entry.entry-content:before
 www.msn.com##.readmoremobile
 www.msn.com##.articlebody:style(max-height: unset !important;)
+www.thaiticketmajor.com##.box-btn-read-more
+www.thaiticketmajor.com##.detail-wrp:style(max-height: unset !important;)
+www.thaiticketmajor.com##.detail-wrp:after
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)

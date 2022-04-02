@@ -6,6 +6,8 @@
 ||www.ikea.com/th/th/analytics/scripts^
 ||sink.blockdit.com^
 ||p.typekit.net^$third-party
+||stat.seedwebs.com^$third-party
+||stat.seedwebs.com^$domain=seedwebs.com
 
 ! =============== ADS ==================
 ||frukt.pantip.com^$domain=pantip.com

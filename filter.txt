@@ -288,6 +288,7 @@ www.tkpark.or.th###box-ck
 jaymartstore.com###consent-noti
 thaiticketmajor.com##.privacy-policy-bar
 www.doctorraksa.com##div[class^="CookieBanner"]
+www.siphhospital.com###cookit
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

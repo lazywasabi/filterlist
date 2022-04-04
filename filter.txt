@@ -289,6 +289,7 @@ jaymartstore.com###consent-noti
 thaiticketmajor.com##.privacy-policy-bar
 www.doctorraksa.com##div[class^="CookieBanner"]
 www.siphhospital.com###cookit
+www.samitivejhospitals.com##.cookie-consent-section
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

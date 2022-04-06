@@ -347,6 +347,7 @@ www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top:
 www.blognone.com##.social-sharing
 www.blognone.com###page-sharing
 thestandard.co##.meta-date + .row
+www.true4u.com###social-sidebar
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify

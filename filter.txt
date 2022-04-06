@@ -8,6 +8,9 @@
 ||p.typekit.net^$third-party
 ||stat.seedwebs.com^$third-party
 ||stat.seedwebs.com^$domain=seedwebs.com
+||www.priceza.com/tracker^
+||www.priceza.com/service/impressiontracking^
+||mstatic.priceza.com^$third-party,script
 
 ! =============== ADS ==================
 ||frukt.pantip.com^$domain=pantip.com

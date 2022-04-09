@@ -87,7 +87,8 @@ www.nationtv.tv##.default-sticky
 www.nationtv.tv##.default-inarticle
 ! Floating banner
 today.line.me##.floatingBanner-root
-trueid.net##.style__BannerBox-sc-1k92hio-0
+trueid.net##div[class^="style__BannerBox"]
+trueid.net##div[class^="style__BubbleBox"]
 
 www.blockdit.com##.monetize-ad-wrapper
 www.rsmall.com##div[class^="BannerPopup__BannerPopupWrapper"]

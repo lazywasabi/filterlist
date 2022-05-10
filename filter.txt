@@ -172,7 +172,8 @@ www.thaiticketmajor.com###popup-recommend
 www.thaiticketmajor.com##.box-banner-top.visible-xs
 www.autofun.co.th##.business-config-wrapper
 www.77kaoded.com##.banner.-rec,.theiaStickySidebar
-roijang.com##.roija-popup,div[data-advadstrackid]
+roijang.com##.roija-popup
+roijang.com,www.gamingdose.com##div[data-advadstrackid]
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

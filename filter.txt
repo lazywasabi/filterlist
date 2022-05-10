@@ -11,6 +11,7 @@
 ||www.priceza.com/tracker^
 ||www.priceza.com/service/impressiontracking^
 ||mstatic.priceza.com^$third-party,script
+||isgstat.sanook.com^
 
 ! =============== ADS ==================
 ||frukt.pantip.com^$domain=pantip.com

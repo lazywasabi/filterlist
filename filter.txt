@@ -348,11 +348,12 @@ www.autofun.co.th##.fold-status .main-container:style(height: auto !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest:style(top: 50px !important;)
-! Social buttons
+! Social buttons / popup
 www.blognone.com##.social-sharing
 www.blognone.com###page-sharing
 thestandard.co##.meta-date + .row
 www.true4u.com###social-sidebar
+kpop.youzab.com###fanback
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify

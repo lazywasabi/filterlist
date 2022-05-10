@@ -346,7 +346,7 @@ www.autofun.co.th##.fold-container
 www.autofun.co.th##.fold-status .main-container:style(height: auto !important;)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
-www.blockdit.com##.sticky-menus.authentication-suggest.jsx-2661040995:style(top: 50px !important;)
+www.blockdit.com##.sticky-menus.authentication-suggest:style(top: 50px !important;)
 ! Social buttons
 www.blognone.com##.social-sharing
 www.blognone.com###page-sharing
@@ -386,3 +386,7 @@ teroradio.com##.modal-open:style(overflow: auto !important;)
 teroradio.com###surveryModal
 teroradio.com##.modal-backdrop
 teroradio.com###tritonsurvey
+
+!#if ext_ublock
+!#include filter-ublock.txt
+!#endif

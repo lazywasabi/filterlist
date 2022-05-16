@@ -1,2 +1,3 @@
 ! =============== ADS ==================
 www.blockdit.com##li.mb-2:has(.jsx-3267044764 .text-gray-scale-2.text-xs:has-text(ได้รับการบูสต์))
+www.blockdit.com##li.mt-2:has(.jsx-511078532 .text-gray-scale-2.text-xs:has-text(บูสต์โดย))

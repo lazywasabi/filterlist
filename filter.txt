@@ -391,6 +391,9 @@ teroradio.com###surveryModal
 teroradio.com##.modal-backdrop
 teroradio.com###tritonsurvey
 
+! =============== UNBREAK ===============
+@@||mebmarket.com/adbanner/*$image,domain=www.mebmarket.com
+
 !#if ext_ublock
 !#include filter-ublock.txt
 !#endif

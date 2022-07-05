@@ -390,6 +390,8 @@ teroradio.com##.modal-open:style(overflow: auto !important;)
 teroradio.com###surveryModal
 teroradio.com##.modal-backdrop
 teroradio.com###tritonsurvey
+! Other
+thairath.co.th##.__item_article_content_similar
 
 ! =============== UNBREAK ===============
 @@||mebmarket.com/adbanner/*$image,domain=www.mebmarket.com

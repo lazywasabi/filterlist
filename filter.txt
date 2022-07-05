@@ -299,6 +299,7 @@ thaiticketmajor.com##.privacy-policy-bar
 www.doctorraksa.com##div[class^="CookieBanner"]
 www.siphhospital.com###cookit
 www.samitivejhospitals.com##.cookie-consent-section
+www.beartai.com##.dpdpa--popup
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

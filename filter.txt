@@ -300,6 +300,7 @@ www.doctorraksa.com##div[class^="CookieBanner"]
 www.siphhospital.com###cookit
 www.samitivejhospitals.com##.cookie-consent-section
 www.beartai.com##.dpdpa--popup
+www.mercular.com###pdpa__footer
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

@@ -303,6 +303,7 @@ www.siphhospital.com###cookit
 www.samitivejhospitals.com##.cookie-consent-section
 www.beartai.com##.dpdpa--popup
 www.mercular.com###pdpa__footer
+siamrath.co.th###block-block-44
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

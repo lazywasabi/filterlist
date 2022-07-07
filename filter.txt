@@ -166,6 +166,8 @@ www.dek-d.com##.aside-banner
 www.dek-d.com###banner-bigbox
 www.dek-d.com###big-box
 www.dek-d.com,writer.dek-d.com###banner-panorama
+www.dek-d.com##.main-wrapper:style(padding-top:0!important)
+www.dek-d.com###toolbar-pin:style(padding-top:50px!important)
 www.smmsport.com##.ads-sticky-bottom-mobile,.ads-margin-bottom-1rem
 www.daradaily.com###float_pop_div
 www.thaiticketmajor.com###popup-recommend

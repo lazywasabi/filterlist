@@ -396,6 +396,7 @@ thairath.co.th##.__item_article_content_similar
 
 ! =============== UNBREAK ===============
 @@||mebmarket.com/adbanner/*$image,domain=www.mebmarket.com
+@@||th.kerryexpress.com/website-api/api/Tracking/*$xhr,domain=th.kerryexpress.com
 
 !#if ext_ublock
 !#include filter-ublock.txt

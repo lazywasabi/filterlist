@@ -16,6 +16,7 @@
 ! =============== ADS ==================
 ||frukt.pantip.com^$domain=pantip.com
 ||code.evidence.io^$domain=www.zipeventapp.com
+||www.viu.com/ott/misc/widget^$subdocument,domain=www.hallyukstar.com|www.korseries.com
 ! Ads on www.checkraka.com
 ||www.abgadvertising.com^
 thairath.co.th##.e2xssn00
@@ -189,7 +190,6 @@ roijang.com,www.gamingdose.com##div[data-advadstrackid]
 ||www.wongnai.com/_api/consents^$domain=www.wongnai.com
 ||static.ch7.com/js/libch7-pdpa-ch7.js^$domain=ch7.com
 ||static.ch7.com/js/utilPdpa.js^$domain=ch7.com
-||www.viu.com/ott/misc/widget^$subdocument,domain=www.hallyukstar.com|www.korseries.com
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
 www.khaosod.co.th,www.matichonweekly.com###pdpa-popup

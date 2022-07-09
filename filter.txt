@@ -53,8 +53,8 @@ techsauce.co##.modal-backdrop
 prachatai.com##.adsbypct
 prachatai.com##.support-pay
 prachatai.com###block-block-28
-prachatai.com##.mean-bar:style(top: 0;)
-prachatai.com###block-block-7:style(top: 0;)
+prachatai.com##.mean-bar:style(top: 0 !important;)
+prachatai.com###block-block-7:style(top: 0 !important;)
 prachatai.com###zone-user-wrapper:style(padding-top: 70px !important;)
 ! Top banner ads
 www.sanook.com##.BillboardPremium
@@ -339,7 +339,7 @@ www.amarintv.com##.goapp-mask
 www.amarintv.com###_popIn_read_more_container:style(max-height: unset !important;)
 www.mushroomtravel.com##.view-more-content
 www.mushroomtravel.com##.content-detail-container:after
-www.mushroomtravel.com##.content-detail-container:style(max-height: unset !important; margin-bottom: 0;)
+www.mushroomtravel.com##.content-detail-container:style(max-height: unset !important; margin-bottom: 0 !important;)
 teroradio.com##.articles-detail:style(max-height: unset !important;)
 www.hallyukstar.com##.toggle-post-content
 www.hallyukstar.com###the-post .entry:style(max-height: unset !important;)

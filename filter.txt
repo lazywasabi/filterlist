@@ -379,6 +379,8 @@ shopee.co.th##._1Xq3Qi
 www.shopat24.com###mobile-app-promotion
 www.kingpower.com##div[class^="AppBanner__AppBannerLayout"]
 writer.dek-d.com###banner-openapp
+mega-bangna.com###download-app-mobile
+mega-bangna.com###app-download-sticky
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 www.zipeventapp.com##.tve-leads-lightbox

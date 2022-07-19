@@ -344,8 +344,9 @@ teroradio.com##.articles-detail:style(max-height: unset !important;)
 www.hallyukstar.com##.toggle-post-content
 www.hallyukstar.com###the-post .entry:style(max-height: unset !important;)
 www.hallyukstar.com##.entry.entry-content:before
-www.msn.com##.readmoremobile
-www.msn.com##.articlebody:style(max-height: unset !important;)
+www.msn.com###continuousReadingContainer
+www.msn.com##.articlePageBodySection.articlePage_section_continueReading-DS-EntryPoint1-1:style(max-height: unset !important;)
+www.msn.com##.articlePage_hiddenContent-DS-EntryPoint1-1:style(visibility: visible !important;)
 www.thaiticketmajor.com##.box-btn-read-more
 www.thaiticketmajor.com##.detail-wrp:style(max-height: unset !important;)
 www.thaiticketmajor.com##.detail-wrp:after

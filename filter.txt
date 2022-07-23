@@ -284,7 +284,7 @@ vipa.me##app-cookies-banner
 www.home.co.th###cookieAcceptBar
 www.apthai.com##.cookies-consent
 mirrorthailand.com##.e1x3rkp81
-www.true4u.com###popup-privacy
+true4u.com###popup-privacy
 kaihuaror.com##.cookie-accept
 teroradio.com##.policy
 www.jobthai.com##.zlzj82-0
@@ -359,12 +359,12 @@ www.blockdit.com##.sticky-menus.authentication-suggest:style(top: 50px !importan
 www.blognone.com##.social-sharing
 www.blognone.com###page-sharing
 thestandard.co##.meta-date + .row
-www.true4u.com###social-sidebar
+true4u.com###social-sidebar
 kpop.youzab.com###fanback
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify
-www.true4u.com###notification-modal
+true4u.com###notification-modal
 postjung.com###wpprpop
 ! Download / Open App
 www.blockdit.com##.card-download-suggest

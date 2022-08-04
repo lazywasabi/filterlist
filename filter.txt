@@ -304,6 +304,7 @@ www.samitivejhospitals.com##.cookie-consent-section
 www.beartai.com##.dpdpa--popup
 www.mercular.com###pdpa__footer
 siamrath.co.th###block-block-44
+airportthai.co.th###wrap_cookie_accept
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

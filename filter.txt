@@ -178,6 +178,7 @@ www.77kaoded.com##.banner.-rec,.theiaStickySidebar
 roijang.com##.roija-popup
 roijang.com,www.gamingdose.com##div[data-advadstrackid]
 www.bangkokbiznews.com##div[class^="dynamic-ads__AdsWrapper"]
+www.springnews.co.th##.ads-billboard
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

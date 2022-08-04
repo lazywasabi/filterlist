@@ -2,3 +2,6 @@
 www.blockdit.com##li.mb-2:has(.jsx-3267044764 .text-gray-scale-2.text-xs:has-text(ได้รับการบูสต์))
 www.blockdit.com##li.mt-2:has(.jsx-511078532 .text-gray-scale-2.text-xs:has-text(บูสต์โดย))
 www.blockdit.com##.jsx-3292155500:has(.jsx-511078532 .text-gray-scale-2.text-xs:has-text(บูสต์โดย))
+
+! =============== COOKIE NOTICE ===============
+www.lotuss.com##.MuiBox-root:has(h6:has-text(นโยบายคุ้มครองข้อมูลส่วนบุคคลและการใช้คุกกี้))

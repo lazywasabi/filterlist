@@ -179,6 +179,7 @@ roijang.com##.roija-popup
 roijang.com,www.gamingdose.com##div[data-advadstrackid]
 www.bangkokbiznews.com##div[class^="dynamic-ads__AdsWrapper"]
 www.springnews.co.th##.ads-billboard
+www.dailynews.co.th###elementor-popup-modal-1201646
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

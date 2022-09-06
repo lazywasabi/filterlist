@@ -357,6 +357,8 @@ www.thaiticketmajor.com##.detail-wrp:style(max-height: unset !important;)
 www.thaiticketmajor.com##.detail-wrp:after
 www.autofun.co.th##.fold-container
 www.autofun.co.th##.fold-status .main-container:style(height: auto !important;)
+mgronline.com##.m-detail-readmore-lightbox
+mgronline.com##.m-detail-container:style(max-height: unset !important)
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest:style(top: 50px !important;)

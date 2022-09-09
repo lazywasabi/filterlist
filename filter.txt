@@ -96,7 +96,7 @@ trueid.net##div[class^="style__BubbleBox"]
 www.blockdit.com##.monetize-ad-wrapper
 www.rsmall.com##div[class^="BannerPopup__BannerPopupWrapper"]
 www.tnnthailand.com##.ad-middle
-www.pptvhd36.com##.ads-ppn
+www.pptvhd36.com##.ads-ppn,.widget--livebanner
 thethaiger.com##.custom_banner
 www.joox.com##.VipTooltip
 www.checkraka.com###popup-ads + .modal.show

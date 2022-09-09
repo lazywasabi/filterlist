@@ -72,6 +72,7 @@ www.sanook.com##.FloatingWidgetMobile
 www.sanook.com##html.lock-scroll:style(overflow: auto !important;)
 www.sanook.com##html.lock-scroll body:style(overflow: auto !important;)
 www.sanook.com##.isMobile.lock-scroll .MainHeaderMobile:style(top: 0 !important;)
+sanook.com##.inreadAd
 ! Blognone Jobs ads
 www.blognone.com###above_comments
 www.blognone.com###block-views-jobs-blognone-com-block
@@ -206,7 +207,7 @@ www.bangkokbiznews.com,www.nationtv.tv,www.springnews.co.th##.ads-sticky-overflo
 www.thansettakij.com#@##acceptCookie
 www.komchadluek.net##div[class^="id__CustomtagCookie"]
 www.mcot.net##.accept-policy
-sanook.com###consent_bn.consent
+sanook.com###consent_bn.consent,.ConsentBanner
 sanook.com##.isMobile .menuMobileWrap:style(top: 41px !important;)
 sanook.com##.isMobile .overlay:style(top: 41px !important;)
 pantip.com,maggang.com##.pt-snackbar--open.pt-snackbar

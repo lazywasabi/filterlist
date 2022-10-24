@@ -12,6 +12,7 @@
 ||www.priceza.com/service/impressiontracking^
 ||mstatic.priceza.com^$third-party,script
 ||isgstat.sanook.com^
+||mkt.futurepark.co.th^
 
 ! =============== ADS ==================
 ||frukt.pantip.com^$domain=pantip.com
@@ -301,7 +302,7 @@ shop.dexclub.com,m.dexclub.com##.modal-backdrop
 shop.dexclub.com,m.dexclub.com##.modal-open:style(overflow: auto !important;)
 www.hallyukstar.com##.stream-item
 motorshow.in.th##.pdpa-consent-wrap
-www.tkpark.or.th###box-ck
+www.tkpark.or.th,www.futurepark.co.th###box-ck
 jaymartstore.com###consent-noti
 thaiticketmajor.com##.privacy-policy-bar
 www.doctorraksa.com##div[class^="CookieBanner"]

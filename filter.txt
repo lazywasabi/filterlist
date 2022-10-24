@@ -184,6 +184,7 @@ www.springnews.co.th##.ads-billboard
 www.dailynews.co.th###elementor-popup-modal-1201646
 www.thansettakij.com##.ads-billboard
 trueid.net##div[data-testid^="articleBody-div-ads"]
+www.gamingdose.com##.adv-link
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

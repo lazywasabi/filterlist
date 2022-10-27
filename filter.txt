@@ -13,6 +13,7 @@
 ||mstatic.priceza.com^$third-party,script
 ||isgstat.sanook.com^
 ||mkt.futurepark.co.th^
+/va/script.js^$first-party,script
 
 ! =============== ADS ==================
 ||frukt.pantip.com^$domain=pantip.com

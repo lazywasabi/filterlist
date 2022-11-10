@@ -196,6 +196,7 @@ www.gamingdose.com##.adv-link
 ||script.cookiewow.com^
 ||easypdpa.com/*/easycookies.js^
 ||cdn.cea.or.th/pdpa/cookie.js^
+||static3.wongnai.com/lmwn-asset/js/biscuits^
 ||www.wongnai.com/_api/consents^$domain=www.wongnai.com
 ||static.ch7.com/js/libch7-pdpa-ch7.js^$domain=ch7.com
 ||static.ch7.com/js/utilPdpa.js^$domain=ch7.com

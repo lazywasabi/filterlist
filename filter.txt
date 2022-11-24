@@ -318,6 +318,13 @@ airportthai.co.th###wrap_cookie_accept
 mthai.com,monohoro.com,seeme.me,mono29.com##.pdpa_cookies
 hungryhub.com##.pdpa-container
 www.best-inc.co.th##.bex93-cookie-tip
+www.longtunman.com##.jsx-1486856544
+www.marketthink.co##.jsx-682157866
+thebeautrium.com###side-menu+.position-fixed
+www.ktc.co.th##.cookie-overlay__c,.cookie-wrapper__c
+www.ktc.co.th##.overflow-hidden__c:style(overflow:unset!important)
+www.gwm.co.th##div[data-v-3a0477da],div[data-v-46e6b47e]
+www.hyundai.co.th###cookiePopup-th,#cookiePopup-en
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

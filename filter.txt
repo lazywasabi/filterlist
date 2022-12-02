@@ -186,6 +186,8 @@ www.dailynews.co.th###elementor-popup-modal-1201646
 www.thansettakij.com##.ads-billboard
 trueid.net##div[data-testid^="articleBody-div-ads"]
 www.gamingdose.com##.adv-link
+www.thebangkokinsight.com##div[id^="oa-360"]
+www.thebangkokinsight.com##ins[_adop_zon]
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

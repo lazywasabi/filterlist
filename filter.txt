@@ -180,7 +180,7 @@ www.autofun.co.th##.business-config-wrapper
 www.77kaoded.com##.banner.-rec,.theiaStickySidebar
 roijang.com##.roija-popup
 roijang.com,www.gamingdose.com##div[data-advadstrackid]
-www.bangkokbiznews.com##div[class^="dynamic-ads__AdsWrapper"]
+www.bangkokbiznews.com,www.komchadluek.net##div[class^="dynamic-ads"]
 www.springnews.co.th##.ads-billboard
 www.dailynews.co.th###elementor-popup-modal-1201646
 www.thansettakij.com##.ads-billboard

@@ -416,7 +416,7 @@ www.zipeventapp.com##body.tve-l-open:style(overflow: auto !important;)
 sudsapda.com,praew.com,www.amarinbabyandkids.com,goodlifeupdate.com,www.baanlaesuan.com##.container-main-vdo
 thairath.co.th##.dugout-video
 ||player.ivideosmart.com^$domain=www.silpa-mag.com|www.technologychaoban.com|www.sentangsedtee.com|www.matichonweekly.com
-www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com,www.matichon.co.th##.td-a-rec
+www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com,www.matichon.co.th,www.prachachat.net##.td-a-rec
 ! Survey
 teroradio.com##.modal-open:style(overflow: auto !important;)
 teroradio.com###surveryModal

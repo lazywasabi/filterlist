@@ -189,6 +189,7 @@ www.gamingdose.com##.adv-link
 www.thebangkokinsight.com##div[id^="oa-360"]
 www.thebangkokinsight.com##ins[_adop_zon]
 www.livinginsider.com##a[href*="bclick.php?banid="]
+www.brighttv.co.th##.b-banner.-billboard
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

@@ -188,6 +188,7 @@ trueid.net##div[data-testid^="articleBody-div-ads"]
 www.gamingdose.com##.adv-link
 www.thebangkokinsight.com##div[id^="oa-360"]
 www.thebangkokinsight.com##ins[_adop_zon]
+www.livinginsider.com##a[href*="bclick.php?banid="]
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -327,6 +328,7 @@ www.ktc.co.th##.cookie-overlay__c,.cookie-wrapper__c
 www.ktc.co.th##.overflow-hidden__c:style(overflow:unset!important)
 www.gwm.co.th##div[data-v-3a0477da],div[data-v-46e6b47e]
 www.hyundai.co.th###cookiePopup-th,#cookiePopup-en
+www.livinginsider.com##.main-accpet-cookie,#popup_privacyCookie
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

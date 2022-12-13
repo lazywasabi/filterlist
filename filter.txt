@@ -190,6 +190,7 @@ www.thebangkokinsight.com##div[id^="oa-360"]
 www.thebangkokinsight.com##ins[_adop_zon]
 www.livinginsider.com##a[href*="bclick.php?banid="]
 www.brighttv.co.th##.b-banner.-billboard
+www.condonewb.com##.apsticky
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -330,6 +331,7 @@ www.ktc.co.th##.overflow-hidden__c:style(overflow:unset!important)
 www.gwm.co.th##div[data-v-3a0477da],div[data-v-46e6b47e]
 www.hyundai.co.th###cookiePopup-th,#cookiePopup-en
 www.livinginsider.com##.main-accpet-cookie,#popup_privacyCookie
+www.condonewb.com##.cookieBannerUp
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article
@@ -389,6 +391,7 @@ www.blognone.com###page-sharing
 thestandard.co##.meta-date + .row
 true4u.com###social-sidebar
 kpop.youzab.com###fanback
+www.condonewb.com##.popup-share
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify

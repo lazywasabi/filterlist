@@ -191,6 +191,7 @@ www.thebangkokinsight.com##ins[_adop_zon]
 www.livinginsider.com##a[href*="bclick.php?banid="]
 www.brighttv.co.th##.b-banner.-billboard
 www.condonewb.com##.apsticky
+thinkofliving.com##div[class^="CardAdstyle"],div[class^="BillboardAdstyle"]
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

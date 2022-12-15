@@ -333,6 +333,7 @@ www.gwm.co.th##div[data-v-3a0477da],div[data-v-46e6b47e]
 www.hyundai.co.th###cookiePopup-th,#cookiePopup-en
 www.livinginsider.com##.main-accpet-cookie,#popup_privacyCookie
 www.condonewb.com##.cookieBannerUp
+dexclub.com##.pdpa-popup
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

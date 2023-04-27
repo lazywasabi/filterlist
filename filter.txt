@@ -437,6 +437,7 @@ thairath.co.th##.__item_article_content_similar
 news.siamphone.com###hotnews-link
 beartai.com##.entry-content .inline-post
 www.khaosod.co.th##.recommended_posts_wrap
+www.pptvhd36.com##.related-article-group
 
 ! =============== UNBREAK ===============
 @@||mebmarket.com/adbanner/*$image,domain=www.mebmarket.com

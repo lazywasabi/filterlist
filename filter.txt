@@ -21,6 +21,7 @@
 ||www.viu.com/ott/misc/widget^$subdocument,domain=www.hallyukstar.com|www.korseries.com
 ! Ads on www.checkraka.com
 ||www.abgadvertising.com^
+thairath.co.th##.e2xssn00:has(#slot-billboard)
 thairath.co.th##.e160b0jq8
 ! Home page ads
 thairath.co.th##.el3jrjp0.css-6fzuq9

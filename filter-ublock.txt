@@ -3,6 +3,7 @@ www.blockdit.com##li.mb-2:has(.metadata-detail:has-text(ได้รับกา
 www.blockdit.com##div.mb-2:has(.metadata-detail:has-text(ได้รับการบูสต์))
 www.blockdit.com##li.mt-2:has(.jsx-511078532 .text-gray-scale-2.text-xs:has-text(บูสต์โดย))
 www.blockdit.com##.jsx-3292155500:has(.jsx-511078532 .text-gray-scale-2.text-xs:has-text(บูสต์โดย))
+thairath.co.th##div:has(> p:has-text(SPONSORED))
 
 ! =============== COOKIE NOTICE ===============
 www.lotuss.com##.MuiBox-root:has(h6:has-text(นโยบายคุ้มครองข้อมูลส่วนบุคคลและการใช้คุกกี้))

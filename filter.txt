@@ -21,7 +21,6 @@
 ||www.viu.com/ott/misc/widget^$subdocument,domain=www.hallyukstar.com|www.korseries.com
 ! Ads on www.checkraka.com
 ||www.abgadvertising.com^
-thairath.co.th##.e2xssn00
 thairath.co.th##.e160b0jq8
 ! Home page ads
 thairath.co.th##.el3jrjp0.css-6fzuq9
@@ -192,6 +191,7 @@ www.livinginsider.com##a[href*="bclick.php?banid="]
 www.brighttv.co.th##.b-banner.-billboard
 www.condonewb.com##.apsticky
 thinkofliving.com##div[class^="CardAdstyle"],div[class^="BillboardAdstyle"]
+thairath.co.th##div:has(> .ads-slot-1)
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -394,6 +394,7 @@ thestandard.co##.meta-date + .row
 true4u.com###social-sidebar
 kpop.youzab.com###fanback
 www.condonewb.com##.popup-share
+thairath.co.th##.e1wlf1s627
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify

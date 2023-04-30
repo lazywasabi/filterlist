@@ -193,6 +193,9 @@ www.brighttv.co.th##.b-banner.-billboard
 www.condonewb.com##.apsticky
 thinkofliving.com##div[class^="CardAdstyle"],div[class^="BillboardAdstyle"]
 thairath.co.th##div:has(> .ads-slot-1)
+www.bangkokbiznews.com,www.posttoday.com,www.nationtv.tv##.ads-billboard,.ads-sticky-1,.ads-inarticle-1,.ads-inarticle-2
+www.khaosod.co.th##.ads_position_wrapper
+www.amarintv.com##.ads-container
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -335,6 +338,7 @@ www.hyundai.co.th###cookiePopup-th,#cookiePopup-en
 www.livinginsider.com##.main-accpet-cookie,#popup_privacyCookie
 www.condonewb.com##.cookieBannerUp
 dexclub.com##.pdpa-popup
+www.khaosod.co.th###pdpa-wrapper
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

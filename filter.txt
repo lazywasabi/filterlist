@@ -339,6 +339,7 @@ www.livinginsider.com##.main-accpet-cookie,#popup_privacyCookie
 www.condonewb.com##.cookieBannerUp
 dexclub.com##.pdpa-popup
 www.khaosod.co.th###pdpa-wrapper
+mercular.com##.css-1gw67gw
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

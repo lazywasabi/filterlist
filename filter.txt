@@ -443,6 +443,7 @@ news.siamphone.com###hotnews-link
 beartai.com##.entry-content .inline-post
 www.khaosod.co.th##.recommended_posts_wrap
 www.pptvhd36.com##.related-article-group
+bbc.com##section[data-e2e="recommendations-heading"]
 shopee.co.th##._0lq1fU,.language-selection-modal,shopee-banner-closable-stateful,shopee-banner-closable-ui
 
 ! =============== UNBREAK ===============

@@ -196,6 +196,8 @@ thairath.co.th##div:has(> .ads-slot-1)
 www.bangkokbiznews.com,www.posttoday.com,www.nationtv.tv##.ads-billboard,.ads-sticky-1,.ads-inarticle-1,.ads-inarticle-2
 www.khaosod.co.th##.ads_position_wrapper
 www.amarintv.com##.ads-container
+campus-star.com##.banner-wrap,#dfp-topbanner
+campus-star.com##.hide-for-large:has(#dfp-adhesion)
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -325,7 +327,7 @@ www.beartai.com##.dpdpa--popup
 www.mercular.com###pdpa__footer
 siamrath.co.th###block-block-44
 airportthai.co.th###wrap_cookie_accept
-mthai.com,monohoro.com,seeme.me,mono29.com##.pdpa_cookies
+mthai.com,monohoro.com,seeme.me,mono29.com,campus-star.com##.pdpa_cookies
 hungryhub.com##.pdpa-container
 www.best-inc.co.th##.bex93-cookie-tip
 www.longtunman.com##.jsx-1486856544

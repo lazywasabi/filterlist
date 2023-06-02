@@ -342,6 +342,8 @@ www.condonewb.com##.cookieBannerUp
 dexclub.com##.pdpa-popup
 www.khaosod.co.th###pdpa-wrapper
 mercular.com##.css-1gw67gw
+www.sfcinemacity.com##.pdpa-modals .alertify
+www.sfcinemacity.com##.pdpa-modals.ajs-no-overflow:style(overflow:auto!important)
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

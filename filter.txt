@@ -199,6 +199,9 @@ www.amarintv.com##.ads-container
 campus-star.com##.banner-wrap,#dfp-topbanner
 campus-star.com##.hide-for-large:has(#dfp-adhesion)
 thethaiger.com##.cusotm-thaiger-deals
+gamefever.co##.fancybox-overlay.fancybox-overlay-fixed
+gamefever.co##.fancybox-lock:style(overflow:auto!important;margin-right:0!important)
+gamefever.co###home-web.ads-cover:style(padding-top:0!important)
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^

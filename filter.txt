@@ -198,6 +198,7 @@ www.khaosod.co.th##.ads_position_wrapper
 www.amarintv.com##.ads-container
 campus-star.com##.banner-wrap,#dfp-topbanner
 campus-star.com##.hide-for-large:has(#dfp-adhesion)
+thethaiger.com##.cusotm-thaiger-deals
 
 ! =============== COOKIE NOTICE ===============
 /designil-pdpa-cookie.min.js^
@@ -406,6 +407,7 @@ true4u.com###social-sidebar
 kpop.youzab.com###fanback
 www.condonewb.com##.popup-share
 thairath.co.th##.e1wlf1s627
+thethaiger.com##.entry-content .social-follow
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify
@@ -442,13 +444,15 @@ teroradio.com##.modal-open:style(overflow: auto !important;)
 teroradio.com###surveryModal
 teroradio.com##.modal-backdrop
 teroradio.com###tritonsurvey
-! Other
+! Related content
 thairath.co.th##.__item_article_content_similar
 news.siamphone.com###hotnews-link
 beartai.com##.entry-content .inline-post
 www.khaosod.co.th##.recommended_posts_wrap
 www.pptvhd36.com##.related-article-group
 bbc.com##section[data-e2e="recommendations-heading"]
+thethaiger.com###inline-related-post
+! Other
 shopee.co.th##._0lq1fU,.language-selection-modal,shopee-banner-closable-stateful,shopee-banner-closable-ui
 
 ! =============== UNBREAK ===============

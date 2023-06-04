@@ -349,6 +349,7 @@ mercular.com##.css-1gw67gw
 www.sfcinemacity.com##.pdpa-modals .alertify
 www.sfcinemacity.com##.pdpa-modals.ajs-no-overflow:style(overflow:auto!important)
 www.iconsiam.com##.foot-cookie
+www.indexlivingmall.com##div[class^="cookieBanner_cookieBox"]
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

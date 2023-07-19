@@ -433,9 +433,13 @@ www.homepro.co.th###app-popup-container
 shopee.co.th##._1Xq3Qi
 www.shopat24.com###mobile-app-promotion
 www.kingpower.com##div[class^="AppBanner__AppBannerLayout"]
-writer.dek-d.com###banner-openapp
+writer.dek-d.com###banner-openapp,#banner-reccommend-top
 mega-bangna.com###download-app-mobile
 mega-bangna.com###app-download-sticky
+www.tunwalai.com###alertOpenAppModal,.modal-backdrop.show,.navbar-app-bar
+www.tunwalai.com##body.modal-open:style(overflow:auto!important;)
+www.tunwalai.com###main-body:style(padding-top:64px!important;)
+readawrite.com###bar_open_app
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 www.zipeventapp.com##.tve-leads-lightbox

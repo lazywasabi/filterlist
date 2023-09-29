@@ -13,6 +13,7 @@
 ||mstatic.priceza.com^$third-party,script
 ||isgstat.sanook.com^
 ||mkt.futurepark.co.th^
+||nocnoc.com/buyer-interaction^
 /va/script.js^$first-party,script
 
 ! =============== ADS ==================
@@ -359,6 +360,7 @@ www.indexlivingmall.com##div[class^="cookieBanner_cookieBox"]
 www.studio7thailand.com##.the-pdpa-consent-bar
 true.th###floater-bnr-box
 www.infoquest.co.th##.consent-popup-modal
+nocnoc.com##.cookies-permission-overlay
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

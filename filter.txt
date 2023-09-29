@@ -361,6 +361,7 @@ www.studio7thailand.com##.the-pdpa-consent-bar
 true.th###floater-bnr-box
 www.infoquest.co.th##.consent-popup-modal
 nocnoc.com##.cookies-permission-overlay
+allonline.7eleven.co.th##.head-alert-cookie-gdpr-allonline-warpper-mobile,.head-alert-cookie-gdpr-allonline-warpper
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article
@@ -448,6 +449,7 @@ www.tunwalai.com###alertOpenAppModal,.modal-backdrop.show,.navbar-app-bar
 www.tunwalai.com##body.modal-open:style(overflow:auto!important;)
 www.tunwalai.com###main-body:style(padding-top:64px!important;)
 readawrite.com###bar_open_app
+allonline.7eleven.co.th##.overlay-banner-container
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 www.zipeventapp.com##.tve-leads-lightbox

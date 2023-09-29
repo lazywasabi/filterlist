@@ -26,7 +26,7 @@ thairath.co.th##.e160b0jq8
 ! Home page ads
 thairath.co.th##.el3jrjp0.css-6fzuq9
 ! After article ads
-thairath.co.th##.css-1y1hk5u.evs3ejl52,.css-x9zhmp
+thairath.co.th##.css-1y1hk5u.evs3ejl52,.css-x9zhmp,.css-xvobya
 ! Lotto page ads
 thairath.co.th##.css-1c3n6ic.ecgl95t39
 ! Popup ads

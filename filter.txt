@@ -450,6 +450,8 @@ sudsapda.com,praew.com,www.amarinbabyandkids.com,goodlifeupdate.com,www.baanlaes
 thairath.co.th##.dugout-video
 ||player.ivideosmart.com^$domain=www.silpa-mag.com|www.technologychaoban.com|www.sentangsedtee.com|www.matichonweekly.com
 www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com,www.matichon.co.th,www.prachachat.net##.td-a-rec
+||statics.dmcdn.net/c/dm-ce.min.js^$script,domain=www.beartai.com
+beartai.com##.code-block.code-block-1 .dm-player
 ! Survey
 teroradio.com##.modal-open:style(overflow: auto !important;)
 teroradio.com###surveryModal

@@ -214,6 +214,8 @@ gamefever.co###home-web.ads-cover:style(padding-top:0!important)
 ||cookiecdn.com^
 ||script.cookiewow.com^
 ||easypdpa.com/*/easycookies.js^
+||app.themis-technology.com/cdn/pdpa-cookieconsent.js^$third-party
+||app.themis-technology.com/cdn/pdpa-cookieconsent-init.js^$third-party
 ||cdn.cea.or.th/pdpa/cookie.js^
 ||static3.wongnai.com/lmwn-asset/js/biscuits^
 ||www.wongnai.com/_api/consents^$domain=www.wongnai.com

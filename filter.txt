@@ -458,6 +458,7 @@ thairath.co.th##.dugout-video
 www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com,www.matichon.co.th,www.prachachat.net##.td-a-rec
 ||statics.dmcdn.net/c/dm-ce.min.js^$script,domain=www.beartai.com
 beartai.com##.code-block.code-block-1 .dm-player
+sanook.com##.entry-default-video-container
 ! Survey
 teroradio.com##.modal-open:style(overflow: auto !important;)
 teroradio.com###surveryModal

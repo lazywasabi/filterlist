@@ -355,6 +355,9 @@ www.sfcinemacity.com##.pdpa-modals .alertify
 www.sfcinemacity.com##.pdpa-modals.ajs-no-overflow:style(overflow:auto!important)
 www.iconsiam.com##.foot-cookie
 www.indexlivingmall.com##div[class^="cookieBanner_cookieBox"]
+www.studio7thailand.com##.the-pdpa-consent-bar
+true.th###floater-bnr-box
+www.infoquest.co.th##.consent-popup-modal
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

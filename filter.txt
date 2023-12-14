@@ -24,8 +24,10 @@
 ||www.abgadvertising.com^
 thairath.co.th##.e2xssn00:has(#slot-billboard)
 thairath.co.th##.e160b0jq8
+thairath.co.th##div:has(> .ads-slot-1)
+thairath.co.th##div:has(> :is(#slot-money-billboard, #slot-money-headline, #slot-money-overlay-desktop, #slot-money-rigth-rail-desktop, div[id^="slot-money-middle-postarticle"], div[id^="slot-money-inarticle"], div[id^="slot-money-top"]))
 ! Home page ads
-thairath.co.th##.el3jrjp0.css-6fzuq9
+thairath.co.th##.el3jrjp0.css-6fzuq9,.css-2dn6k.el3jrjp0
 ! After article ads
 thairath.co.th##.css-1y1hk5u.evs3ejl52,.css-x9zhmp,.css-xvobya
 ! Lotto page ads
@@ -193,7 +195,6 @@ www.livinginsider.com##a[href*="bclick.php?banid="]
 www.brighttv.co.th##.b-banner.-billboard
 www.condonewb.com##.apsticky
 thinkofliving.com##div[class^="CardAdstyle"],div[class^="BillboardAdstyle"]
-thairath.co.th##div:has(> .ads-slot-1)
 www.bangkokbiznews.com,www.posttoday.com,www.nationtv.tv##.ads-billboard,.ads-sticky-1,.ads-inarticle-1,.ads-inarticle-2
 www.khaosod.co.th##.ads_position_wrapper
 www.amarintv.com##.ads-container

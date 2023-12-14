@@ -244,7 +244,7 @@ www.scb.co.th##.consent_wrapper
 www.krungsri.com##.modal-backdrop.show
 www.krungsri.com##body.modal-open:style(overflow: auto !important;)
 www.ttbbank.com,www.zipeventapp.com###cookies-consent
-www.gsb.or.th##.cc-container
+www.gsb.or.th###dpdpa-ckcm
 krungthai.com###cookie_consent_popup
 rewards.rabbit.co.th##.collect-cookies
 pay.line.me##.banner_area.banner_open

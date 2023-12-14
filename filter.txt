@@ -223,7 +223,7 @@ www.komchadluek.net,www.nationthailand.com###accept-cookie-footer
 www.siamsport.co.th##div#popup-ss.popup-box.cd-morph-dropdown
 workpointtoday.com###cookie.sticky
 prachatai.com##.sliding-popup-bottom
-www.pptvhd36.com##.pptvbox--policy.active
+www.pptvhd36.com###policy_cookie_div
 www.thansettakij.com,www.bangkokbiznews.com,www.nationtv.tv,www.springnews.co.th##.sticky-cookie
 www.bangkokbiznews.com,www.nationtv.tv,www.springnews.co.th##.ads-sticky-overflow
 www.thansettakij.com#@##acceptCookie

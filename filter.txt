@@ -362,6 +362,7 @@ true.th###floater-bnr-box
 www.infoquest.co.th##.consent-popup-modal
 nocnoc.com##.cookies-permission-overlay
 allonline.7eleven.co.th##.head-alert-cookie-gdpr-allonline-warpper-mobile,.head-alert-cookie-gdpr-allonline-warpper
+www.kasikornbank.com###fx-wrapCK
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

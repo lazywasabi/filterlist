@@ -470,7 +470,7 @@ teroradio.com###surveryModal
 teroradio.com##.modal-backdrop
 teroradio.com###tritonsurvey
 ! Related content
-thairath.co.th##.__item_article_content_similar
+thairath.co.th##.__item_article_content_similar,.recommend--container
 news.siamphone.com###hotnews-link
 beartai.com##.entry-content .inline-post
 www.khaosod.co.th##.recommended_posts_wrap

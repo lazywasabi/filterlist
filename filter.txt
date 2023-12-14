@@ -241,8 +241,7 @@ www.se-ed.com###cookies
 www.tops.co.th##div[class^="CookiePolicy__Wrapper"]
 www.set.or.th###pdpa-policy
 www.scb.co.th##.consent_wrapper
-www.krungsri.com##.modal-backdrop.show
-www.krungsri.com##body.modal-open:style(overflow: auto !important;)
+www.krungsri.com###consent_id
 www.ttbbank.com,www.zipeventapp.com###cookies-consent
 www.gsb.or.th###dpdpa-ckcm
 krungthai.com###cookie_consent_popup

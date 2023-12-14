@@ -205,6 +205,7 @@ gamefever.co##.fancybox-overlay.fancybox-overlay-fixed
 gamefever.co##.fancybox-lock:style(overflow:auto!important;margin-right:0!important)
 gamefever.co###home-web.ads-cover:style(padding-top:0!important)
 kapook.com##.fullbanner
+plus.thairath.co.th##div:has(> :is(#ad_article_desktop_right_rail, #ad_article_mobile_inarticle))
 
 ! =============== COOKIE NOTICE ===============
 ##.dpdpa--popup

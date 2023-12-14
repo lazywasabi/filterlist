@@ -32,15 +32,6 @@ thairath.co.th##.el3jrjp0.css-6fzuq9,.css-2dn6k.el3jrjp0
 thairath.co.th##.css-1y1hk5u.evs3ejl52,.css-x9zhmp,.css-xvobya
 ! Lotto page ads
 thairath.co.th##.css-1c3n6ic.ecgl95t39
-! Popup ads
-www.gamingdose.com##.gamin-pop-up
-www.gamingdose.com##.gamin-pop-up-desktop
-www.gamingdose.com##.advads-background
-! Sticky bottom ads
-www.gamingdose.com##.gamin-sticky-bottom
-! Floating banner
-www.gamingdose.com##.gamin-floating-banner-left
-www.gamingdose.com##.gamin-floating-banner-right
 ! Top & sidebar ads
 thestandard.co##div.mastheadSlide
 thestandard.co##div[data-visibility]

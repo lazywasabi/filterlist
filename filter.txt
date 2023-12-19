@@ -361,6 +361,7 @@ allonline.7eleven.co.th##.head-alert-cookie-gdpr-allonline-warpper-mobile,.head-
 www.kasikornbank.com###fx-wrapCK
 thairath.co.th##.__money_cookies
 www.prd.go.th###prdcookieinfo
+www.sec.or.th###bodyCookie,#btnCookieclick
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

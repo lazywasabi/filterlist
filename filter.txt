@@ -197,6 +197,7 @@ gamefever.co##.fancybox-lock:style(overflow:auto!important;margin-right:0!import
 gamefever.co###home-web.ads-cover:style(padding-top:0!important)
 kapook.com##.fullbanner
 plus.thairath.co.th##div:has(> :is(#ad_article_desktop_right_rail, #ad_article_mobile_inarticle))
+www.mitihoon.com##.td-a-rec-id-header
 
 ! =============== COOKIE NOTICE ===============
 ##.dpdpa--popup
@@ -458,7 +459,7 @@ www.zipeventapp.com##body.tve-l-open:style(overflow: auto !important;)
 sudsapda.com,praew.com,www.amarinbabyandkids.com,goodlifeupdate.com,www.baanlaesuan.com##.container-main-vdo
 thairath.co.th##.dugout-video
 ||player.ivideosmart.com^$domain=www.silpa-mag.com|www.technologychaoban.com|www.sentangsedtee.com|www.matichonweekly.com
-www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com,www.matichon.co.th,www.prachachat.net##.td-a-rec
+www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonweekly.com,www.matichon.co.th,www.prachachat.net,www.mitihoon.com##.td-a-rec
 ||statics.dmcdn.net/c/dm-ce.min.js^$script,domain=www.beartai.com
 beartai.com##.code-block.code-block-1 .dm-player
 sanook.com##.entry-default-video-container

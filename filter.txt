@@ -209,6 +209,7 @@ plus.thairath.co.th##div:has(> :is(#ad_article_desktop_right_rail, #ad_article_m
 ||cookiecdn.com^
 ||script.cookiewow.com^
 ||easypdpa.com/*/easycookies.js^
+||cookiepop.app/dist/ckp.js^$third-party
 ||app.themis-technology.com/cdn/pdpa-cookieconsent.js^$third-party
 ||app.themis-technology.com/cdn/pdpa-cookieconsent-init.js^$third-party
 ||cdn.cea.or.th/pdpa/cookie.js^

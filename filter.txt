@@ -464,6 +464,7 @@ www.silpa-mag.com,www.technologychaoban.com,www.sentangsedtee.com,www.matichonwe
 ||statics.dmcdn.net/c/dm-ce.min.js^$script,domain=www.beartai.com
 beartai.com##.code-block.code-block-1 .dm-player
 sanook.com##.entry-default-video-container
+www.goal.com##div[class^="fc-player_"]
 ! Survey
 teroradio.com##.modal-open:style(overflow: auto !important;)
 teroradio.com###surveryModal

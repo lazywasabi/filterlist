@@ -14,6 +14,7 @@
 ||isgstat.sanook.com^
 ||mkt.futurepark.co.th^
 ||nocnoc.com/buyer-interaction^
+||today.line.me/webapi/logging^
 /va/script.js^$first-party,script
 
 ! =============== ADS ==================

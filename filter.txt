@@ -418,6 +418,7 @@ kpop.youzab.com###fanback
 www.condonewb.com##.popup-share
 thairath.co.th##.e1wlf1s627
 thethaiger.com##.entry-content .social-follow
+www.glo.or.th###messenger.tooltip
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify

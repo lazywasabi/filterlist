@@ -357,6 +357,7 @@ nocnoc.com##.cookies-permission-overlay
 allonline.7eleven.co.th##.head-alert-cookie-gdpr-allonline-warpper-mobile,.head-alert-cookie-gdpr-allonline-warpper
 www.kasikornbank.com###fx-wrapCK
 thairath.co.th##.__money_cookies
+www.prd.go.th###prdcookieinfo
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

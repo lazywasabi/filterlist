@@ -216,6 +216,7 @@ plus.thairath.co.th##div:has(> :is(#ad_article_desktop_right_rail, #ad_article_m
 ||www.wongnai.com/_api/consents^$domain=www.wongnai.com
 ||static.ch7.com/js/libch7-pdpa-ch7.js^$domain=ch7.com
 ||static.ch7.com/js/utilPdpa.js^$domain=ch7.com
+||baaccdn.dpdpa.osd.co.th^$domain=www.baac.or.th
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
 www.khaosod.co.th,www.matichonweekly.com###pdpa-popup
@@ -419,6 +420,7 @@ www.condonewb.com##.popup-share
 thairath.co.th##.e1wlf1s627
 thethaiger.com##.entry-content .social-follow
 www.glo.or.th###messenger.tooltip
+www.baac.or.th###baac_messenger
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify

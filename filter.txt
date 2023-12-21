@@ -362,6 +362,7 @@ www.kasikornbank.com###fx-wrapCK
 thairath.co.th##.__money_cookies
 www.prd.go.th###prdcookieinfo
 www.sec.or.th###bodyCookie,#btnCookieclick
+www.roojai.com###pdpa_cookie
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

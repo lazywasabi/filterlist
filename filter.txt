@@ -199,6 +199,7 @@ gamefever.co###home-web.ads-cover:style(padding-top:0!important)
 kapook.com##.fullbanner
 plus.thairath.co.th##div:has(> :is(#ad_article_desktop_right_rail, #ad_article_mobile_inarticle))
 www.mitihoon.com##.td-a-rec-id-header
+siamblockchain.com###topheader-desktop-banner,#top-article-banner-desktop,#topheader-mobile-banner,#top-article-banner-mobile,.clickout-relative,.latestPost.ads
 
 ! =============== COOKIE NOTICE ===============
 ##.dpdpa--popup

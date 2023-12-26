@@ -363,6 +363,7 @@ thairath.co.th##.__money_cookies
 www.prd.go.th###prdcookieinfo
 www.sec.or.th###bodyCookie,#btnCookieclick
 www.roojai.com###pdpa_cookie
+www.cars24.co.th##._2zAeU
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article
@@ -413,6 +414,8 @@ www.autofun.co.th##.fold-container
 www.autofun.co.th##.fold-status .main-container:style(height: auto !important;)
 mgronline.com##.m-detail-readmore-lightbox
 mgronline.com##.m-detail-container:style(max-height: unset !important)
+www.cars24.co.th##.c-content:style(max-height: unset !important;)
+www.cars24.co.th##.readmore-des
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest:style(top: 50px !important;)

@@ -364,6 +364,7 @@ www.prd.go.th###prdcookieinfo
 www.sec.or.th###bodyCookie,#btnCookieclick
 www.roojai.com###pdpa_cookie
 www.cars24.co.th##._2zAeU
+www.toyotasure.com##.cookie-popup-footer
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

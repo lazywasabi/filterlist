@@ -18,7 +18,6 @@
 /va/script.js^$first-party,script
 
 ! =============== ADS ==================
-||frukt.pantip.com^$domain=pantip.com
 ||code.evidence.io^$domain=www.zipeventapp.com
 ||www.viu.com/ott/misc/widget^$subdocument,domain=www.hallyukstar.com|www.korseries.com
 ! Ads on www.checkraka.com

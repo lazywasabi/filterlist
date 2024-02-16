@@ -199,6 +199,7 @@ kapook.com##.fullbanner
 plus.thairath.co.th##div:has(> :is(#ad_article_desktop_right_rail, #ad_article_mobile_inarticle))
 www.mitihoon.com##.td-a-rec-id-header
 siamblockchain.com###topheader-desktop-banner,#top-article-banner-desktop,#topheader-mobile-banner,#top-article-banner-mobile,.clickout-relative,.latestPost.ads
+airportthai.co.th###wrap_floating
 
 ! =============== COOKIE NOTICE ===============
 ##.dpdpa--popup
@@ -333,7 +334,7 @@ www.siphhospital.com###cookit
 www.samitivejhospitals.com##.cookie-consent-section
 www.beartai.com,workpointtoday.com##.dpdpa--popup
 siamrath.co.th###block-block-44
-airportthai.co.th###wrap_cookie_accept
+airportthai.co.th###cc-main
 mthai.com,monohoro.com,seeme.me,mono29.com,campus-star.com##.pdpa_cookies
 hungryhub.com##.pdpa-container
 www.best-inc.co.th##.bex93-cookie-tip

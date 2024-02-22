@@ -372,6 +372,7 @@ spx.co.th##body.adm-overflow-hidden:style(overflow:auto!important;)
 mega-bangna.com##.cookie-alert
 srichand.co.th,1948beauty.com##.v-alert.v-sheet.v-alert--prominent
 cardx.co.th##.CookieConsent
+lh.co.th##.pdpa-section
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

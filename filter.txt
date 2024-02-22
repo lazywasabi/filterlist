@@ -369,6 +369,7 @@ www.toyotasure.com##.cookie-popup-footer
 www.ddproperty.com##.cookie-banner-section-root
 spx.co.th##.adm-center-popup
 spx.co.th##body.adm-overflow-hidden:style(overflow:auto!important;)
+mega-bangna.com##.cookie-alert
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

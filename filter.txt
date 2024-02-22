@@ -370,6 +370,7 @@ www.ddproperty.com##.cookie-banner-section-root
 spx.co.th##.adm-center-popup
 spx.co.th##body.adm-overflow-hidden:style(overflow:auto!important;)
 mega-bangna.com##.cookie-alert
+srichand.co.th,1948beauty.com##.v-alert.v-sheet.v-alert--prominent
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

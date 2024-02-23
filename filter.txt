@@ -279,7 +279,7 @@ www.viu.com###pdpa_consent_box
 www.tmrwbyuob.com##.com-information-bar
 www.kawebook.com###pdpaPopup
 fastwork.co##.cookie-consent-bar
-1112.com##.cookies
+1112.com###consent-noti
 www.starbucks.co.th##.mpp-container-position-bottom-bar
 www.burgerking.co.th##.div-keep-cookie
 oishidelivery.com###cookieWarnBox

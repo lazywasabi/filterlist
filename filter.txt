@@ -373,6 +373,7 @@ mega-bangna.com##.cookie-alert
 srichand.co.th,1948beauty.com##.v-alert.v-sheet.v-alert--prominent
 cardx.co.th##.CookieConsent
 lh.co.th##.pdpa-section
+track.thailandpost.com###becookies-container
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

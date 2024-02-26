@@ -179,7 +179,7 @@ www.springnews.co.th##.ads-billboard
 www.dailynews.co.th###elementor-popup-modal-1201646
 www.thansettakij.com##.ads-billboard
 trueid.net##div[data-testid^="articleBody-div-ads"]
-www.gamingdose.com##.adv-link
+www.gamingdose.com##.adv-link,.advads-close
 www.thebangkokinsight.com##div[id^="oa-360"]
 www.thebangkokinsight.com##ins[_adop_zon]
 www.livinginsider.com##a[href*="bclick.php?banid="]

@@ -306,7 +306,7 @@ www.shellgoplus.com,www.shellsmart.com###_evidon-barrier-wrapper
 www.bloggang.com###forcookie
 www.pantipmarket.com###pmk_snackbar_policy
 www.pantown.com##.ptcp-cookie
-www.finnomena.com###consent-banner
+finnomena.com###cs_consent-cookies-banner
 www.trinitythai.com##.consent--wrapper
 th.theasianparent.com##.cookie-widget
 www.rakluke.com##.uk-section.uk-position-bottom.uk-position-fixed.uk-position-z-index

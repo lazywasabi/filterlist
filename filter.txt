@@ -375,6 +375,7 @@ cardx.co.th##.CookieConsent
 lh.co.th##.pdpa-section
 track.thailandpost.com###becookies-container
 flashexpress.com##.learn-more-wrapper
+ktam.co.th##.cookies--wrapper
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

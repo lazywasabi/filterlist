@@ -374,6 +374,7 @@ srichand.co.th,1948beauty.com##.v-alert.v-sheet.v-alert--prominent
 cardx.co.th##.CookieConsent
 lh.co.th##.pdpa-section
 track.thailandpost.com###becookies-container
+flashexpress.com##.learn-more-wrapper
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

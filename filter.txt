@@ -376,6 +376,7 @@ lh.co.th##.pdpa-section
 track.thailandpost.com###becookies-container
 flashexpress.com##.learn-more-wrapper
 ktam.co.th##.cookies--wrapper
+dataforthai.com###dft-cookie-confirm
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

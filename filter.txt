@@ -432,6 +432,8 @@ mgronline.com##.m-detail-readmore-lightbox
 mgronline.com##.m-detail-container:style(max-height: unset !important)
 www.cars24.co.th##.c-content:style(max-height: unset !important;)
 www.cars24.co.th##.readmore-des
+ch7.com###collapsible-description:style(max-height: unset !important; overflow: auto !important;)
+ch7.com###collapsible-description.collapsed::after,#viewMoreButton
 ! Login banner
 www.blockdit.com##.jsx-3692028524
 www.blockdit.com##.sticky-menus.authentication-suggest:style(top: 50px !important;)

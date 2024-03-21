@@ -223,6 +223,8 @@ airportthai.co.th###wrap_floating
 ||static.ch7.com/js/utilPdpa.js^$domain=ch7.com
 ||baaccdn.dpdpa.osd.co.th^$domain=www.baac.or.th
 ||pdpa.thaiware.com^
+@@||www.homepro.co.th/javascript/cookieconsent/cookieconsent.js^
+homepro.co.th##.cookie-popup
 plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
 www.khaosod.co.th,www.matichonweekly.com###pdpa-popup
@@ -444,6 +446,7 @@ thairath.co.th##.e1wlf1s627
 thethaiger.com##.entry-content .social-follow
 www.glo.or.th###messenger.tooltip
 www.baac.or.th###baac_messenger
+homepro.co.th###mkpchat
 ! Browser notification
 www.tnnthailand.com###notification-modal
 chobrod.com##.popup-container.pu-up-notify
@@ -470,6 +473,8 @@ www.tunwalai.com##body.modal-open:style(overflow:auto!important;)
 www.tunwalai.com###main-body:style(padding-top:64px!important;)
 readawrite.com###bar_open_app
 allonline.7eleven.co.th##.overlay-banner-container
+homepro.co.th###banner_floating
+homepro.co.th##.swiper-superstrip
 ! Newsletter subscribe
 www.sfcinemacity.com##.float-subscribe
 www.zipeventapp.com##.tve-leads-lightbox

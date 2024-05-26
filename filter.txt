@@ -252,7 +252,7 @@ www.tops.co.th##div[class^="CookiePolicy__Wrapper"]
 www.set.or.th###pdpa-policy
 www.scb.co.th##.consent_wrapper
 www.krungsri.com,www.keptbykrungsri.com,muangthai.co.th###consent_id
-www.ttbbank.com,www.zipeventapp.com###cookies-consent
+www.zipeventapp.com###cookies-consent
 www.gsb.or.th###dpdpa-ckcm
 krungthai.com###cookie_consent_popup
 rewards.rabbit.co.th##.collect-cookies
@@ -381,6 +381,7 @@ track.thailandpost.com###becookies-container
 flashexpress.com##.learn-more-wrapper
 ktam.co.th##.cookies--wrapper
 dataforthai.com###dft-cookie-confirm
+ttbbank.com##div[class^=cookie-consent_]
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

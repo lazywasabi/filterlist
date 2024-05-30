@@ -187,7 +187,7 @@ www.livinginsider.com##a[href*="bclick.php?banid="]
 www.brighttv.co.th##.b-banner.-billboard
 www.condonewb.com##.apsticky
 thinkofliving.com##div[class^="CardAdstyle"],div[class^="BillboardAdstyle"]
-www.bangkokbiznews.com,www.posttoday.com,www.nationtv.tv##.ads-billboard,.ads-sticky-1,.ads-inarticle-1,.ads-inarticle-2
+www.bangkokbiznews.com,www.posttoday.com,www.nationtv.tv,thepeople.co##.ads-billboard,.ads-sticky-1,.ads-inarticle-1,.ads-inarticle-2
 www.khaosod.co.th##.ads_position_wrapper
 www.amarintv.com##.ads-container
 campus-star.com##.banner-wrap,#dfp-topbanner
@@ -505,7 +505,7 @@ www.khaosod.co.th##.recommended_posts_wrap
 www.pptvhd36.com##.related-article-group
 bbc.com##section[data-e2e="recommendations-heading"]
 thethaiger.com###inline-related-post
-bangkokbiznews.com##.widget-content.related-news-desktop
+bangkokbiznews.com,thepeople.co##.widget-content.related-news-desktop
 ! Other
 shopee.co.th##._0lq1fU,.language-selection-modal,shopee-banner-closable-stateful,shopee-banner-closable-ui
 

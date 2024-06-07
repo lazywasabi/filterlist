@@ -384,6 +384,7 @@ ktam.co.th##.cookies--wrapper
 dataforthai.com###dft-cookie-confirm
 ttbbank.com##div[class^=cookie-consent_]
 salehere.co.th##.container-accept-cookie
+dreame.com##div[class^="InstallPromotion_cookie"]
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

@@ -202,6 +202,7 @@ www.mitihoon.com##.td-a-rec-id-header
 siamblockchain.com###topheader-desktop-banner,#top-article-banner-desktop,#topheader-mobile-banner,#top-article-banner-mobile,.clickout-relative,.latestPost.ads
 airportthai.co.th###wrap_floating
 autolifethailand.tv###tdi_29,.tdi_87,.tdi_101,.tdi_207,.tdi_126,.td-a-rec
+thairath.co.th##body.modal-open:style(overflow:auto!important;)
 
 ! =============== COOKIE NOTICE ===============
 ##.dpdpa--popup

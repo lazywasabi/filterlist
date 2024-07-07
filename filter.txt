@@ -15,6 +15,7 @@
 ||mkt.futurepark.co.th^
 ||nocnoc.com/buyer-interaction^
 ||today.line.me/webapi/logging^
+||app.adtechthai.com^$third-party,script
 /va/script.js^$first-party,script
 
 ! =============== ADS ==================

@@ -142,6 +142,7 @@ www.nationthailand.com##.custom-margin-bottom:style(margin-top: 0 !important;)
 www.boonthavorn.com##div[class^="popup-popup_conner"]
 www.korseries.com##.code-block-viu-widget
 www.korseries.com##.code-block-viu-widget-sidebar
+www.korseries.com##.gliaplayer-container
 korism.com,jarm.com##._popIn_polymer_ad_container
 mono29.com##.google_ads_place
 www.autospinn.com##.c-entry-box--ads

@@ -263,7 +263,7 @@ krungthai.com###cookie_consent_popup
 rewards.rabbit.co.th##.collect-cookies
 pay.line.me##.banner_area.banner_open
 www.truemoney.com##.tmn-cookie
-www.atime.live##.style__StyleModal-sc-1ecjkz-0
+atime.live##div:has(> .cookies-consent)
 longdo.com###pdpa-longdocom-div
 huawei.com##.huawei-convergent-cookie
 truecorp.co.th###floater-bnr-box

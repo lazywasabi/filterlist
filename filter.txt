@@ -405,8 +405,9 @@ thestandard.co##article.single-content:style(height: auto !important;)
 thestandard.co##article.single-content:after
 www.punpro.com##div[class^="BlockContent__BlockReadMore"]
 www.punpro.com##div[class^="BlockContent__RootContent"]:style(height: auto !important;)
-kapook.com###readmore.readmore_zone
+kapook.com###readmore.readmore_zone,.readmore
 kapook.com###atf.collaps:style(height: auto !important;)
+kapook.com##.article_body:style(height: auto !important)
 th.theasianparent.com##.isReadMoreViewHtml-wrap
 th.theasianparent.com##.html-content.snippet.big-hero-content:style(height: auto !important;)
 www.autodeft.com,teroradio.com##.read-more-box

@@ -235,7 +235,7 @@ plus.thairath.co.th##.enmq55h2.css-wfe216
 news.thaipbs.or.th###alert-policy.alert-dismissible.alert-warning.alert
 www.khaosod.co.th,www.matichonweekly.com###pdpa-popup
 www.komchadluek.net,www.nationthailand.com###accept-cookie-footer
-www.siamsport.co.th##div#popup-ss.popup-box.cd-morph-dropdown
+www.siamsport.co.th##.cookie-bar
 workpointtoday.com###cookie.sticky
 prachatai.com##.sliding-popup-bottom
 www.pptvhd36.com###policy_cookie_div

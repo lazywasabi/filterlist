@@ -393,6 +393,7 @@ jinovel.com##.shadow-card-md.rounded-t-md.bg-white.z-1000.p-4.bottom-0.fixed
 ihavecpu.com##div[class^=cookieNotice]
 th.vietjetair.com##.booking_cookie_agreement
 gmm25.com###cookieModal
+425degree.com##.amgdprcookie-bar-container
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

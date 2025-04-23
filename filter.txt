@@ -394,6 +394,7 @@ ihavecpu.com##div[class^=cookieNotice]
 th.vietjetair.com##.booking_cookie_agreement
 gmm25.com###cookieModal
 425degree.com##.amgdprcookie-bar-container
+dotlife.store##div[class^="cookieConsent"]
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

@@ -396,6 +396,7 @@ gmm25.com###cookieModal
 425degree.com##.amgdprcookie-bar-container
 dotlife.store##div[class^="cookieConsent"]
 oneultrascreens.com##.v-notification-list
+chillpainai.com##.cookie-consent
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

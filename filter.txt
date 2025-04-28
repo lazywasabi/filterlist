@@ -397,6 +397,7 @@ gmm25.com###cookieModal
 dotlife.store##div[class^="cookieConsent"]
 oneultrascreens.com##.v-notification-list
 chillpainai.com##.cookie-consent
+th.trip.com##.cookie-banner
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

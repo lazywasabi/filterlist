@@ -71,12 +71,6 @@ www.sanook.com##html.lock-scroll:style(overflow: auto !important;)
 www.sanook.com##html.lock-scroll body:style(overflow: auto !important;)
 www.sanook.com##.isMobile.lock-scroll .MainHeaderMobile:style(top: 0 !important;)
 sanook.com##.inreadAd
-! Blognone Jobs ads
-www.blognone.com###above_comments
-www.blognone.com###block-views-jobs-blognone-com-block
-! Sponsored post
-www.blognone.com##body.front .node.sticky.sponsored
-www.blognone.com##body.page-taxonomy .node.sticky.sponsored
 ! Sidebar ads
 dict.longdo.com##.commercial-ads
 ! Fix blank space
@@ -207,6 +201,7 @@ autolifethailand.tv###tdi_29,.tdi_87,.tdi_101,.tdi_207,.tdi_126,.td-a-rec
 thairath.co.th##body.modal-open:style(overflow:auto!important;)
 chillpainai.com##.ps-popup
 chillpainai.com##body:style(overflow: auto !important)
+blognone.com##.box-node.box-color-sponsored,.box-node.box-color-workplace,div[id^="block-thex-managedad"],#block-thex-custompremiumcompanyblock,#block-thex-views-block-block-feed-forum-press-release-block-1
 
 ! =============== COOKIE NOTICE ===============
 ##.dpdpa--popup
@@ -528,6 +523,8 @@ thethaiger.com###inline-related-post
 bangkokbiznews.com,thepeople.co##.widget-content.related-news-desktop
 ! Other
 shopee.co.th##._0lq1fU,.language-selection-modal,shopee-banner-closable-stateful,shopee-banner-closable-ui
+blognone.com##.comment-body .links.inline
+blognone.com##.comment-body:style(justify-content:normal !important;)
 
 ! =============== UNBREAK ===============
 @@||mebmarket.com/adbanner/*$image,domain=www.mebmarket.com

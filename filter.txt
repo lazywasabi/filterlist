@@ -393,6 +393,7 @@ dotlife.store##div[class^="cookieConsent"]
 oneultrascreens.com##.v-notification-list
 chillpainai.com##.cookie-consent
 th.trip.com##.cookie-banner
+allticket.com##.cc-window
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

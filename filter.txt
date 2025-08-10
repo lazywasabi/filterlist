@@ -395,6 +395,7 @@ chillpainai.com##.cookie-consent
 th.trip.com##.cookie-banner
 allticket.com##.cc-window
 bot.or.th##.cookiesdetail
+dime.co.th##div[data-testid="modal-cookie-consent"]
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

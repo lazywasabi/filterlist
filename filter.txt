@@ -394,6 +394,7 @@ oneultrascreens.com##.v-notification-list
 chillpainai.com##.cookie-consent
 th.trip.com##.cookie-banner
 allticket.com##.cc-window
+bot.or.th##.cookiesdetail
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

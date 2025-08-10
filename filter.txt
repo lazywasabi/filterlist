@@ -397,6 +397,7 @@ allticket.com##.cc-window
 bot.or.th##.cookiesdetail
 dime.co.th##div[data-testid="modal-cookie-consent"]
 bemplc.co.th###cookieConsent
+theconcert.com###cookie-modal
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

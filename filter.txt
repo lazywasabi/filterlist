@@ -399,6 +399,7 @@ bot.or.th##.cookiesdetail
 dime.co.th##div[data-testid="modal-cookie-consent"]
 bemplc.co.th###cookieConsent
 theconcert.com###cookie-modal
+ikonthailand.com##.amgdprjs-bar-template
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

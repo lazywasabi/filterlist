@@ -400,6 +400,7 @@ dime.co.th##div[data-testid="modal-cookie-consent"]
 bemplc.co.th###cookieConsent
 theconcert.com###cookie-modal
 ikonthailand.com##.amgdprjs-bar-template
+mea.or.th##.formPdpa
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

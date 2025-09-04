@@ -401,7 +401,7 @@ bemplc.co.th###cookieConsent
 theconcert.com###cookie-modal
 ikonthailand.com##.amgdprjs-bar-template
 mea.or.th##.formPdpa
-centralparkbangkok.com.cookies-popup
+centralparkbangkok.com##.cookies-popup
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

@@ -274,7 +274,7 @@ fwd.co.th##.jss14.jss18
 fwd.co.th##cookie-button
 www.southeastinsurance.co.th##.cookie.policy-footer-cookie
 daradaily.com##.snackbar-container.snackbar-pos.bottom-center
-www.thansettakij.com###cookie
+www.thansettakij.com,centralpattana.co.th###cookie
 www.officemate.co.th##div[class^="PolicyBar__Bar"]
 www.aeon.co.th###consent
 www.joox.com##.pdpa

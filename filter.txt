@@ -402,6 +402,7 @@ theconcert.com###cookie-modal
 ikonthailand.com##.amgdprjs-bar-template
 mea.or.th##.formPdpa
 centralparkbangkok.com##.cookies-popup
+srtet.co.th##.consent--banner
 
 ! =============== ANNOYANCES ===============
 ! Auto expand article

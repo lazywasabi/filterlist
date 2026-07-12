@@ -202,6 +202,7 @@ thairath.co.th##body.modal-open:style(overflow:auto!important;)
 chillpainai.com##.ps-popup
 chillpainai.com##body:style(overflow: auto !important)
 blognone.com##.box-node.box-color-sponsored,.box-node.box-color-workplace,div[id^="block-thex-managedad"],#block-thex-custompremiumcompanyblock,#block-thex-views-block-block-feed-forum-press-release-block-1
+thisisgamethailand.com##.tigth-ads
 
 ! =============== COOKIE NOTICE ===============
 ##.dpdpa--popup
